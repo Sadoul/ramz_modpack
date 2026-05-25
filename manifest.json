@@ -1,0 +1,9 @@
+{
+  "name": "ramz",
+  "minecraft_version": "1.21.1",
+  "loader": "neoforge",
+  "loader_version": "",
+  "mods": [],
+  "server_ip": null,
+  "discord_url": null
+}
