@@ -3,7 +3,96 @@
   "minecraft_version": "1.21.1",
   "loader": "neoforge",
   "loader_version": "",
-  "mods": [],
+  "mods": [
+    {
+      "name": "cloth-config-15.0.140-neoforge.jar",
+      "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/cloth-config-15.0.140-neoforge.jar",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+      "size": 1163890,
+      "enabled": true
+    },
+    {
+      "name": "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+      "sha1": "c3f1aa493ce0d3d60ba76e2b2d6b1dd65f60bde6",
+      "size": 1216443,
+      "enabled": true
+    },
+    {
+      "name": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
+      "path": "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+      "sha1": "6c6f885e0359c2b0601cbec76fda406caeb49cca",
+      "size": 1582824,
+      "enabled": true
+    },
+    {
+      "name": "ferritecore-7.0.3-neoforge.jar",
+      "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/ferritecore-7.0.3-neoforge.jar",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+      "size": 121559,
+      "enabled": true
+    },
+    {
+      "name": "geckolib-neoforge-1.21.1-4.8.4 (1).jar",
+      "path": "mods/geckolib-neoforge-1.21.1-4.8.4 (1).jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/geckolib-neoforge-1.21.1-4.8.4 (1).jar",
+      "sha1": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce",
+      "size": 622582,
+      "enabled": true
+    },
+    {
+      "name": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "sha1": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb",
+      "size": 368598,
+      "enabled": true
+    },
+    {
+      "name": "Immersive Vehicles-1.21.1-24.0.0.jar",
+      "path": "mods/Immersive Vehicles-1.21.1-24.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/Immersive Vehicles-1.21.1-24.0.0.jar",
+      "sha1": "7050a332f18d390610029de28c13fb6139786607",
+      "size": 6131756,
+      "enabled": true
+    },
+    {
+      "name": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "path": "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "sha1": "9fd5fa9076044180ae7f51672de74669196ec72e",
+      "size": 774148,
+      "enabled": true
+    },
+    {
+      "name": "PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
+      "path": "mods/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
+      "sha1": "b1ee96cfefa36e1c05aaab8e92bfb3f9ae927d15",
+      "size": 5307768,
+      "enabled": true
+    },
+    {
+      "name": "ramz-1.0.0.jar",
+      "path": "mods/ramz-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/ramz-1.0.0.jar",
+      "sha1": "df8271dd1a1f435a055c4d7e0f1bc994faf366b9",
+      "size": 88789,
+      "enabled": true
+    },
+    {
+      "name": "sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
+      "path": "mods/sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
+      "sha1": "efc5edffe91596779a1ad3586e50a00126dc3341",
+      "size": 1284556,
+      "enabled": true
+    }
+  ],
   "server_ip": null,
   "discord_url": null
 }
