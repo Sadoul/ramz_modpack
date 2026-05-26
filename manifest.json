@@ -110,5 +110,6 @@
     }
   ],
   "server_ip": null,
-  "discord_url": null
+  "discord_url": null,
+  "loader_installer_url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/neoforge-21.1.230-installer.jar"
 }
