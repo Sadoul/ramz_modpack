@@ -2,7 +2,7 @@
   "name": "ramz",
   "minecraft_version": "1.21.1",
   "loader": "neoforge",
-  "loader_version": "",
+  "loader_version": "21.1.230",
   "mods": [
     {
       "name": "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
