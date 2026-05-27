@@ -109,6 +109,22 @@
       "sha1": "15f5aec9c4769f4329f119d2692a44a68f2222c5",
       "size": 135992,
       "enabled": true
+    },
+    {
+      "name": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "path": "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "sha1": "0310135a01eeceefbc7f1ab017498a65f3ad6836",
+      "size": 391053,
+      "enabled": true
+    },
+    {
+      "name": "xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
+      "path": "mods/xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
+      "sha1": "06cdb37f394bdbebce94c64644ae4bc21bd98959",
+      "size": 2138329,
+      "enabled": true
     }
   ],
   "server_ip": null,
