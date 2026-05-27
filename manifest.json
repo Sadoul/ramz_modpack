@@ -119,14 +119,6 @@
       "enabled": true
     },
     {
-      "name": "worldedit-mod-7.3.8.jar",
-      "path": "mods/worldedit-mod-7.3.8.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/worldedit-mod-7.3.8.jar",
-      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
-      "size": 6222854,
-      "enabled": true
-    },
-    {
       "name": "xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
       "path": "mods/xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
@@ -140,6 +132,14 @@
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
       "sha1": "d0865b6153c4d0feaf1551fb5309884ec3568c03",
       "size": 1387011,
+      "enabled": true
+    },
+    {
+      "name": "worldedit-mod-7.3.8.jar",
+      "path": "mods/worldedit-mod-7.3.8.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/worldedit-mod-7.3.8.jar",
+      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
+      "size": 6222854,
       "enabled": true
     }
   ],
