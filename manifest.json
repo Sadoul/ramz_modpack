@@ -103,14 +103,6 @@
       "enabled": true
     },
     {
-      "name": "ramz-1.0.0.jar",
-      "path": "mods/ramz-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/ramz-1.0.0.jar",
-      "sha1": "15f5aec9c4769f4329f119d2692a44a68f2222c5",
-      "size": 135992,
-      "enabled": true
-    },
-    {
       "name": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
       "path": "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
@@ -140,6 +132,14 @@
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/worldedit-mod-7.3.8.jar",
       "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
       "size": 6222854,
+      "enabled": true
+    },
+    {
+      "name": "ramz-1.0.0.jar",
+      "path": "mods/ramz-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/ramz-1.0.0.jar",
+      "sha1": "2d8a6b7a0205e4d54aef4639cbc5d48e6ba92a19",
+      "size": 210421,
       "enabled": true
     }
   ],
