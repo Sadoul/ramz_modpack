@@ -141,6 +141,14 @@
       "sha1": "707c55ea6d3acfde80279c18c4eb39e59ebaead9",
       "size": 211023,
       "enabled": true
+    },
+    {
+      "name": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "path": "mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/mods__DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "sha1": "bc865b11c94581949384b6d5820b58aee8b7273c",
+      "size": 30113661,
+      "enabled": true
     }
   ],
   "server_ip": null,
