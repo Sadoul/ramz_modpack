@@ -1,0 +1,39 @@
+[economy]
+	#Enable economy integration (Vault/GrandEconomy). If no external provider found, uses built-in.
+	economyEnabled = true
+	#Default starting balance for new players (built-in economy)
+	# Default: 1000.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	defaultBalance = 1000.0
+	#Currency symbol displayed in GUIs
+	currencySymbol = "$"
+
+[web]
+	#Enable the embedded web dashboard
+	webEnabled = true
+	#Port for the web dashboard
+	# Default: 8080
+	# Range: 1024 ~ 65535
+	webPort = 8080
+	#Password for the web dashboard (empty = no auth)
+	webPassword = ""
+
+[market]
+	#Default listing fee percentage for market HUDs
+	# Default: 5.0
+	# Range: 0.0 ~ 100.0
+	marketListingFeePercent = 5.0
+	#Default expiration time in hours for market listings
+	# Default: 48
+	# Range: 1 ~ 720
+	marketDefaultExpirationHours = 48
+	#Default max listings per player per market HUD
+	# Default: 10
+	# Range: 1 ~ 100
+	marketMaxListingsPerPlayer = 10
+	#How often to check for expired market listings (in minutes)
+	# Default: 5
+	# Range: 1 ~ 60
+	marketExpirationCheckMinutes = 5
+	#Allow players to open markets via /market and /hdv commands. Set to false to force NPC interaction only.
+	marketCommandEnabled = true
