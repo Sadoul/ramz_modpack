@@ -63,14 +63,6 @@
       "enabled": true
     },
     {
-      "name": "Immersive Vehicles-1.21.1-24.0.0.jar",
-      "path": "mods/Immersive Vehicles-1.21.1-24.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/a91af0fdc8908664bfaa81d4294a6333ff281169/mods/Immersive Vehicles-1.21.1-24.0.0.jar",
-      "sha1": "7050a332f18d390610029de28c13fb6139786607",
-      "size": 6131756,
-      "enabled": true
-    },
-    {
       "name": "LesRaisins-Tactical-Equipements-1.21.1-0.4.0-beta2.jar",
       "path": "mods/LesRaisins-Tactical-Equipements-1.21.1-0.4.0-beta2.jar",
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/802c91a734bb67ed0366d4330f9ddf8ddca085d0/mods/LesRaisins-Tactical-Equipements-1.21.1-0.4.0-beta2.jar",
@@ -271,14 +263,6 @@
       "enabled": true
     },
     {
-      "name": "lithium-neoforge-0.15.3+mc1.21.1.jar",
-      "path": "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
-      "sha1": "9fd5fa9076044180ae7f51672de74669196ec72e",
-      "size": 774148,
-      "enabled": true
-    },
-    {
       "name": "melody_neoforge_1.0.10_MC_1.21.jar",
       "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/cf5e2292d3c1edf7ecf5fe51bc57a63722b5cfa1/mods/melody_neoforge_1.0.10_MC_1.21.jar",
@@ -364,14 +348,6 @@
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/14bd9dce48050f56974f32cdc8e7a1886098bdc4/mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
       "sha1": "00338f16b360d6b24b53fc8f92b76256729aee75",
       "size": 62900,
-      "enabled": true
-    },
-    {
-      "name": "sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
-      "path": "mods/sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
-      "sha1": "efc5edffe91596779a1ad3586e50a00126dc3341",
-      "size": 1284556,
       "enabled": true
     },
     {
@@ -1087,14 +1063,6 @@
       "enabled": true
     },
     {
-      "name": "lithium.properties",
-      "path": "config/lithium.properties",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e5bfe841a7619d9faa38b1c7218aedc44a8ea931/config/lithium.properties",
-      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
-      "size": 267,
-      "enabled": true
-    },
-    {
       "name": "lrtactical-client.toml",
       "path": "config/lrtactical-client.toml",
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/cc3593ed0d8fa2f15c28993582fa1224f8166750/config/lrtactical-client.toml",
@@ -1132,22 +1100,6 @@
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/95cea8abf1650535c879163d8a6c099f729b2046/config/mobsunscreen-common.toml",
       "sha1": "731c56272f6dfd1bcf613ac6128a7e7fe081f3f5",
       "size": 403,
-      "enabled": true
-    },
-    {
-      "name": "mtsconfig.json",
-      "path": "config/mtsconfig.json",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/0c9309ca883e793150d1bbce42f9547a3fa589e8/config/mtsconfig.json",
-      "sha1": "831a88cff4f7b849f85e448913108cedf8e69d4a",
-      "size": 13450,
-      "enabled": true
-    },
-    {
-      "name": "mtsconfigclient.json",
-      "path": "config/mtsconfigclient.json",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/04adaafbf2daff1ab1fb4a9089495ea0eb3380fc/config/mtsconfigclient.json",
-      "sha1": "a77daf5694d84e18ed00b0ec9c87099f60c2ac11",
-      "size": 24696,
       "enabled": true
     },
     {
@@ -1260,46 +1212,6 @@
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/84cd628ebc6ccc2d558da7c1f8e270279a0a3399/config/smoothswapping.json",
       "sha1": "845ccd1f96cf635d7adbe528481364bdcbce3335",
       "size": 72,
-      "enabled": true
-    },
-    {
-      "name": "sodium-extra-options.json",
-      "path": "config/sodium-extra-options.json",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9f77e1c50423a3a9856c45348b331c738c94f5eb/config/sodium-extra-options.json",
-      "sha1": "20da2d32f90d06b613d0a44eb4b1c0d0b631fdfe",
-      "size": 5713,
-      "enabled": true
-    },
-    {
-      "name": "sodium-extra.properties",
-      "path": "config/sodium-extra.properties",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/5697a063b44c548bb595f6cd6d2bb15bee88ab2b/config/sodium-extra.properties",
-      "sha1": "e90b2514226a0624cf42112b42477f9872598b89",
-      "size": 360,
-      "enabled": true
-    },
-    {
-      "name": "sodium-fingerprint.json",
-      "path": "config/sodium-fingerprint.json",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/5742852e40e645f31039e7e81556f8d2de7c0bdc/config/sodium-fingerprint.json",
-      "sha1": "4a92c763f77b6b029ac84960d9a91f3c9d97bb1a",
-      "size": 427,
-      "enabled": true
-    },
-    {
-      "name": "sodium-mixins.properties",
-      "path": "config/sodium-mixins.properties",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6588417fa2e5e2e94930045a40772c9d9d04ce4f/config/sodium-mixins.properties",
-      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
-      "size": 258,
-      "enabled": true
-    },
-    {
-      "name": "sodium-options.json",
-      "path": "config/sodium-options.json",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/57e155353f213c7a6e3448e34d4090dc9cb62518/config/sodium-options.json",
-      "sha1": "2f221c55c9278f683b4afe220649abf79f130728",
-      "size": 685,
       "enabled": true
     },
     {
