@@ -1,0 +1,159 @@
+#TACZ Attributes Addon Configuration
+[general]
+	#Apply random attributes when guns are obtained (crafted/picked up)
+	enableRandomOnObtain = true
+	#Apply per-weapon-model fixed attributes (configured in weapon_attributes.json)
+	enableWeaponTypeAttributes = true
+	#Enable the Attribute Station block for applying random attributes
+	enableAttributeStation = true
+	#Enable Apotheosis integration (gem/socket system for guns)
+	enableApotheosis = true
+	#Enable attribute scoring and rarity display
+	enableRarityScoring = true
+	#Show empty attribute slots in tooltip when current attributes < maxAttributes
+	showEmptySlots = false
+
+#Random Attribute Generation
+[random]
+	#Random mode: FULL_RANDOM, ADAPTIVE, RARITY_ADAPTIVE, BALANCED
+	#Allowed Values: FULL_RANDOM, ADAPTIVE, RARITY_ADAPTIVE, BALANCED
+	randomMode = "RARITY_ADAPTIVE"
+	#How fixed (per-weapon) and random attributes interact
+	#FIXED_ONLY: Only fixed attributes, no random
+	#RANDOM_ONLY: Only random, fixed config ignored
+	#BOTH_STACKING: Both applied, stacking multiplicatively
+	#FIXED_INFLUENCES_RANDOM: Fixed attributes modify random pool weights
+	#Allowed Values: FIXED_ONLY, RANDOM_ONLY, BOTH_STACKING, FIXED_INFLUENCES_RANDOM
+	fixedAttributeMode = "BOTH_STACKING"
+	#Minimum number of random attributes per gun
+	# Default: 1
+	# Range: 0 ~ 20
+	minAttributes = 1
+	#Maximum number of random attributes per gun
+	# Default: 5
+	# Range: 0 ~ 20
+	maxAttributes = 5
+	#Value distribution curve: LINEAR, EXPONENTIAL, QUADRATIC
+	#Allowed Values: LINEAR, EXPONENTIAL, QUADRATIC
+	valueDistribution = "EXPONENTIAL"
+	#Exponent for EXPONENTIAL distribution (higher = more skewed toward low values)
+	# Default: 2.0
+	# Range: 1.0 ~ 10.0
+	distributionExponent = 2.0
+	#How spread out rarity weights are (higher = rarer attributes are much rarer)
+	# Default: 2.0
+	# Range: 1.0 ~ 10.0
+	raritySpreadFactor = 2.0
+	#Target buff/debuff ratio for BALANCED mode (1.0 = equal, 2.0 = twice as many buffs)
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	buffDebuffRatio = 1.0
+
+#Rarity Score Thresholds
+[rarity]
+	#Minimum score for UNCOMMON rarity
+	# Default: 50
+	# Range: > 0
+	uncommonThreshold = 50
+	#Minimum score for RARE rarity
+	# Default: 70
+	# Range: > 0
+	rareThreshold = 70
+	#Minimum score for EPIC rarity
+	# Default: 100
+	# Range: > 0
+	epicThreshold = 100
+
+#Attribute Station Block
+[station]
+	#Processing time in ticks (20 ticks = 1 second)
+	# Default: 200
+	# Range: 1 ~ 72000
+	processingTime = 200
+	#Whether the station consumes an item during processing
+	consumeItem = false
+	#Item ID to consume (e.g., 'minecraft:diamond'), only used if consumeItem is true
+	consumeItemId = "minecraft:diamond"
+	#Number of items to consume per processing
+	# Default: 1
+	# Range: 1 ~ 64
+	consumeCount = 1
+	#Allow re-rolling attributes on guns that already have them
+	allowReroll = true
+	#Maximum number of rerolls allowed per gun (0 = unlimited)
+	#Once a gun reaches this limit, it cannot be rerolled at the station
+	# Default: 0
+	# Range: 0 ~ 1000
+	maxRerolls = 0
+
+#Apotheosis Integration (requires Apotheosis mod)
+[apotheosis]
+	#Base number of sockets for guns (used when socketsScaleWithRarity is false)
+	# Default: 2
+	# Range: 0 ~ 6
+	gunBaseSockets = 2
+	#Whether socket count scales with the gun's rarity
+	socketsScaleWithRarity = true
+	#Socket count for COMMON rarity guns
+	# Default: 1
+	# Range: 0 ~ 6
+	commonSockets = 1
+	#Socket count for UNCOMMON rarity guns
+	# Default: 2
+	# Range: 0 ~ 6
+	uncommonSockets = 2
+	#Socket count for RARE rarity guns
+	# Default: 3
+	# Range: 0 ~ 6
+	rareSockets = 3
+	#Socket count for EPIC rarity guns
+	# Default: 4
+	# Range: 0 ~ 6
+	epicSockets = 4
+
+#Enhancement Station Block
+[enhancement]
+	#Enable the Enhancement Station block for selectively enhancing gun attributes
+	enableEnhancementStation = true
+	#Material item ID required for enhancements (e.g., 'minecraft:diamond')
+	materialId = "minecraft:diamond"
+	#Number of materials consumed when applying an enhancement
+	# Default: 1
+	# Range: 1 ~ 64
+	applyCost = 1
+	#Number of materials consumed when rerolling choices
+	# Default: 1
+	# Range: 1 ~ 64
+	rerollCost = 1
+	#Number of enhancement choices shown to the player
+	# Default: 3
+	# Range: 1 ~ 10
+	choiceCount = 3
+	#Maximum number of enhancements per gun (0 = unlimited)
+	# Default: 10
+	# Range: 0 ~ 100
+	maxEnhancements = 10
+	#Whether material cost increases with each enhancement level
+	costScaling = false
+	#Additional materials per enhancement level when cost scaling is enabled
+	# Default: 1
+	# Range: 1 ~ 10
+	costScalingAmount = 1
+	#Minimum enhancement value as a fraction of the attribute's range
+	# Default: 0.01
+	# Range: 0.001 ~ 1.0
+	minValueMultiplier = 0.01
+	#Maximum enhancement value as a fraction of the attribute's range
+	# Default: 0.1
+	# Range: 0.001 ~ 1.0
+	maxValueMultiplier = 0.1
+	#If true, enhancements are always positive (buffs only)
+	onlyPositive = true
+	#Maximum number of distinct enhancement attribute types per gun (0 = unlimited)
+	#When reached, only already-enhanced attributes appear as choices
+	# Default: 0
+	# Range: 0 ~ 100
+	maxTypes = 0
+	#If true, enhancement choices are restricted to attributes already on the gun
+	#(random + fixed + enhanced modifiers)
+	existingOnly = false
