@@ -7,11 +7,51 @@
   "loader_prebuilt_url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/neoforge-21.1.230-prebuilt.zip",
   "mods": [
     {
+      "name": "options.txt",
+      "path": "options.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/58c1fe72f80bde45d29a13c7ea6ca6627283a87d/options.txt",
+      "sha1": "67e56c8805bce09ec1960440189e5f16cc6f36eb",
+      "size": 5808,
+      "enabled": true
+    },
+    {
+      "name": "Atlas-Lib-1.21.0-1.1.14.jar",
+      "path": "mods/Atlas-Lib-1.21.0-1.1.14.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/435fed71dc0bab98bef1d5e7a861d9968ca004e2/mods/Atlas-Lib-1.21.0-1.1.14.jar",
+      "sha1": "8aa32c7595496206dcab266705489914565cc8f7",
+      "size": 93183,
+      "enabled": true
+    },
+    {
       "name": "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
       "path": "mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/5cd58810ba6608d12a183cb0ce35266af724e8c3/mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
       "sha1": "c3f1aa493ce0d3d60ba76e2b2d6b1dd65f60bde6",
       "size": 1216443,
+      "enabled": true
+    },
+    {
+      "name": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "path": "mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/mods__DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "sha1": "bc865b11c94581949384b6d5820b58aee8b7273c",
+      "size": 30113661,
+      "enabled": true
+    },
+    {
+      "name": "Elite x Quality Guns Neoforge v5.1 - 1.21.1.jar",
+      "path": "mods/Elite x Quality Guns Neoforge v5.1 - 1.21.1.jar",
+      "url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/mods__Elite.x.Quality.Guns.Neoforge.v5.1.-.1.21.1.jar",
+      "sha1": "f34b5471f6ee1747ebaa44a082f82b74f47d938b",
+      "size": 60832083,
+      "enabled": true
+    },
+    {
+      "name": "Flashlight-1.21.1.jar",
+      "path": "mods/Flashlight-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/bd00c4cd0ea87f5c3dba9cd564c3be6175bd2da8/mods/Flashlight-1.21.1.jar",
+      "sha1": "b159d02871f28666f83e949de3eada93214efddf",
+      "size": 111371,
       "enabled": true
     },
     {
@@ -25,31 +65,151 @@
     {
       "name": "Immersive Vehicles-1.21.1-24.0.0.jar",
       "path": "mods/Immersive Vehicles-1.21.1-24.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/Immersive Vehicles-1.21.1-24.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/a91af0fdc8908664bfaa81d4294a6333ff281169/mods/Immersive Vehicles-1.21.1-24.0.0.jar",
       "sha1": "7050a332f18d390610029de28c13fb6139786607",
       "size": 6131756,
       "enabled": true
     },
     {
+      "name": "LesRaisins-Tactical-Equipements-1.21.1-0.4.0-beta2.jar",
+      "path": "mods/LesRaisins-Tactical-Equipements-1.21.1-0.4.0-beta2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/802c91a734bb67ed0366d4330f9ddf8ddca085d0/mods/LesRaisins-Tactical-Equipements-1.21.1-0.4.0-beta2.jar",
+      "sha1": "c30197e89a4c63f6925c18a0e6172a53a39994a5",
+      "size": 5401050,
+      "enabled": true
+    },
+    {
+      "name": "MutantsZombies-1.3.1-NeoForge-mc1.21.jar",
+      "path": "mods/MutantsZombies-1.3.1-NeoForge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1a577160cfd50a3e08d70907423527f24c8ba998/mods/MutantsZombies-1.3.1-NeoForge-mc1.21.jar",
+      "sha1": "acc226d536376253ed9504519d1368a33e600ee3",
+      "size": 450248,
+      "enabled": true
+    },
+    {
       "name": "PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
       "path": "mods/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/b836312729ef28eec2b226dd1d8c3662a327acab/mods/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
       "sha1": "b1ee96cfefa36e1c05aaab8e92bfb3f9ae927d15",
       "size": 5307768,
       "enabled": true
     },
     {
+      "name": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "path": "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/08825477b9b236b6386a2bded1e5723bf1817ee7/mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "sha1": "0310135a01eeceefbc7f1ab017498a65f3ad6836",
+      "size": 391053,
+      "enabled": true
+    },
+    {
+      "name": "TCTcore-1.21.1.jar",
+      "path": "mods/TCTcore-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/831c938fc87d06e653290dc74b3d8e422faecf1f/mods/TCTcore-1.21.1.jar",
+      "sha1": "3c647fdcaa5e9aebc45a61287696ac57ce369359",
+      "size": 195568,
+      "enabled": true
+    },
+    {
+      "name": "THEUNDEADREVAMPED_1.8f_1.21.1 neoforge.jar",
+      "path": "mods/THEUNDEADREVAMPED_1.8f_1.21.1 neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/5ceff5c7144a573e2b1783c512efc637f7685990/mods/THEUNDEADREVAMPED_1.8f_1.21.1 neoforge.jar",
+      "sha1": "23d485f3de791cdae11c310aacf8016ae19ecb3a",
+      "size": 7473761,
+      "enabled": true
+    },
+    {
+      "name": "badmobs-neoforge-1.21.1-21.1.1.jar",
+      "path": "mods/badmobs-neoforge-1.21.1-21.1.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/2d9c5dd61d76a4d5e0fcb95b88a46242d2e6d97d/mods/badmobs-neoforge-1.21.1-21.1.1.jar",
+      "sha1": "1af633e54e05726fbdce1b445dac15fbedafdd5b",
+      "size": 31421,
+      "enabled": true
+    },
+    {
+      "name": "blur-neoforge-6.2.0+1.21.1.jar",
+      "path": "mods/blur-neoforge-6.2.0+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ac7a01f3f72eb47f284ccf22ec94c36b7637d0fe/mods/blur-neoforge-6.2.0+1.21.1.jar",
+      "sha1": "2862c6eb785656840ab27c521a42aef8d43a1e55",
+      "size": 205230,
+      "enabled": true
+    },
+    {
+      "name": "butchery-5.1-neoforge-1.21.1.jar",
+      "path": "mods/butchery-5.1-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9f742eba305ca4420e39740321ec85c79a38d21e/mods/butchery-5.1-neoforge-1.21.1.jar",
+      "sha1": "d61deaefe5dc1bb9eeab88a15be394876aa7f5dc",
+      "size": 13942981,
+      "enabled": true
+    },
+    {
+      "name": "chatanimation-neoforge-1.21.1-1.1.3.jar",
+      "path": "mods/chatanimation-neoforge-1.21.1-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ad168b08d9ecbba16e07b66be28f08b086014308/mods/chatanimation-neoforge-1.21.1-1.1.3.jar",
+      "sha1": "a56aae316e52564a7e49b0aadc6c49441ef9f62d",
+      "size": 380396,
+      "enabled": true
+    },
+    {
       "name": "cloth-config-15.0.140-neoforge.jar",
       "path": "mods/cloth-config-15.0.140-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9f81b8b110a31c7d1b1ca3f2f9ff2feb2c12390e/mods/cloth-config-15.0.140-neoforge.jar",
       "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
       "size": 1163890,
       "enabled": true
     },
     {
+      "name": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "path": "mods/coroutil-neoforge-1.21.0-1.3.9.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ab4ab602c047961c7cb469512d86729de98ff125/mods/coroutil-neoforge-1.21.0-1.3.9.jar",
+      "sha1": "0f5a6309ce8394721b97740e6f3e45665f13b8de",
+      "size": 65716,
+      "enabled": true
+    },
+    {
+      "name": "curios-neoforge-9.5.1+1.21.1.jar",
+      "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/930ad7f9f921590ea750664abd282f04843efa39/mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+      "size": 410690,
+      "enabled": true
+    },
+    {
+      "name": "dynamiclights-1.21.1.2NF.jar",
+      "path": "mods/dynamiclights-1.21.1.2NF.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/28cfb23f5dfc3779066a2d6b40884303c9e79335/mods/dynamiclights-1.21.1.2NF.jar",
+      "sha1": "22f928d753ea6a6c05706ff7782c614ad12a75d1",
+      "size": 49110,
+      "enabled": true
+    },
+    {
+      "name": "embeddium-1.0.15+mc1.21.1.jar",
+      "path": "mods/embeddium-1.0.15+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4c5e0a6c61c00625c2b433ff3517491ee3ea3293/mods/embeddium-1.0.15+mc1.21.1.jar",
+      "sha1": "56063839172a000d079272794bad366f2ad4cbbd",
+      "size": 1048745,
+      "enabled": true
+    },
+    {
+      "name": "entity_model_features-3.2.4-1.21-neoforge.jar",
+      "path": "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/2f607bc32cc5ccb061ca6349194f65527703dd63/mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+      "sha1": "fcc0d7cfee5ace4dba159225edd151d90dd924b9",
+      "size": 567827,
+      "enabled": true
+    },
+    {
+      "name": "entity_texture_features_1.21-neoforge-7.1.jar",
+      "path": "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/5593e7a0f8cf70771142f9a3c28cf883f2294802/mods/entity_texture_features_1.21-neoforge-7.1.jar",
+      "sha1": "56de40b237ff44dbf1bb68844e0f118607902684",
+      "size": 752334,
+      "enabled": true
+    },
+    {
       "name": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
       "path": "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9a12813573dc6ec503f74d2547395c59cab0594e/mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
       "sha1": "6c6f885e0359c2b0601cbec76fda406caeb49cca",
       "size": 1582824,
       "enabled": true
@@ -57,7 +217,7 @@
     {
       "name": "ferritecore-7.0.3-neoforge.jar",
       "path": "mods/ferritecore-7.0.3-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ea5ca4df053c0a07f0dbb4fbd294c2d69e028fd8/mods/ferritecore-7.0.3-neoforge.jar",
       "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
       "size": 121559,
       "enabled": true
@@ -65,9 +225,49 @@
     {
       "name": "geckolib-neoforge-1.21.1-4.8.4 (1).jar",
       "path": "mods/geckolib-neoforge-1.21.1-4.8.4 (1).jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/geckolib-neoforge-1.21.1-4.8.4 (1).jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9c63d05abe88e43679112a30f4b1c50fcb99e213/mods/geckolib-neoforge-1.21.1-4.8.4 (1).jar",
       "sha1": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce",
       "size": 622582,
+      "enabled": true
+    },
+    {
+      "name": "halovecs-1.21.1-5.1.0.jar",
+      "path": "mods/halovecs-1.21.1-5.1.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8a3ad874b14e4b6d62e95a7a7b6956622a53d7c9/mods/halovecs-1.21.1-5.1.0.jar",
+      "sha1": "4350edf18a47bb1b92c63f314470b15c21f078ca",
+      "size": 1325349,
+      "enabled": true
+    },
+    {
+      "name": "hudcreator-2.6.1.jar",
+      "path": "mods/hudcreator-2.6.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d6a609e8e99e33586942103fbaae2cb3c0e67142/mods/hudcreator-2.6.1.jar",
+      "sha1": "24e050d6683d9fef3d0aa420f3075b8783436734",
+      "size": 522244,
+      "enabled": true
+    },
+    {
+      "name": "jei-1.21.1-neoforge-19.27.0.340.jar",
+      "path": "mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/724ae5704f5094c3f7370bcbf260339fa7f88be4/mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "sha1": "27d0d85e7e32e926fc3664ab6815df5cdabb7941",
+      "size": 1529391,
+      "enabled": true
+    },
+    {
+      "name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/15d96bd3c8608d6f9ab58373b1c7b682fa268eaf/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+      "size": 618842,
+      "enabled": true
+    },
+    {
+      "name": "kotlinforforge-5.11.0-all.jar",
+      "path": "mods/kotlinforforge-5.11.0-all.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/098aca9c92dbc64f542227fdb41e9f0a644d22e5/mods/kotlinforforge-5.11.0-all.jar",
+      "sha1": "a8b9f1233336ca9fe4702bc2cc5a6f97ad5e3b65",
+      "size": 6869790,
       "enabled": true
     },
     {
@@ -79,67 +279,43 @@
       "enabled": true
     },
     {
-      "name": "sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
-      "path": "mods/sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
-      "sha1": "efc5edffe91596779a1ad3586e50a00126dc3341",
-      "size": 1284556,
+      "name": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/cf5e2292d3c1edf7ecf5fe51bc57a63722b5cfa1/mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698",
+      "size": 36096,
       "enabled": true
     },
     {
-      "name": "tacz-neoforge-1.21.1-1.1.8-r2.jar",
-      "path": "mods/tacz-neoforge-1.21.1-1.1.8-r2.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/tacz-neoforge-1.21.1-1.1.8-r2.jar",
-      "sha1": "141ff5d0663530d483eb87bf572d2e2b6f24bc78",
-      "size": 56830354,
+      "name": "mobsunscreen-4.0.0-NeoForge.jar",
+      "path": "mods/mobsunscreen-4.0.0-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3c14ec214a0dec65dc9972a94098674b9e72287f/mods/mobsunscreen-4.0.0-NeoForge.jar",
+      "sha1": "d16a89ffe1a9bd249505f295c850e8a84ba953da",
+      "size": 11920,
       "enabled": true
     },
     {
-      "name": "MTS Official Pack-1.21.1-V29.jar",
-      "path": "mods/MTS Official Pack-1.21.1-V29.jar",
-      "url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/mods__MTS.Official.Pack-1.21.1-V29.jar",
-      "sha1": "7e7cc4389379cdb7addc1bb29ff1700099cee5bb",
-      "size": 70999728,
+      "name": "neoculus-mc1.21.1-1.8.7.jar",
+      "path": "mods/neoculus-mc1.21.1-1.8.7.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/c787efc513ddcdd656e5de76390aa112ad563fd5/mods/neoculus-mc1.21.1-1.8.7.jar",
+      "sha1": "561550dd5a4ca05bb31b90e50bc7194c263065ff",
+      "size": 2799219,
       "enabled": true
     },
     {
-      "name": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
-      "path": "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
-      "sha1": "0310135a01eeceefbc7f1ab017498a65f3ad6836",
-      "size": 391053,
+      "name": "nobz-1.3.jar",
+      "path": "mods/nobz-1.3.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9c0d9f58ba1a5537d3f5d5482d104454b3bd7ace/mods/nobz-1.3.jar",
+      "sha1": "f20766a7f3690308226e2ae37c2fe4fb4ef976a6",
+      "size": 6248,
       "enabled": true
     },
     {
-      "name": "xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
-      "path": "mods/xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
-      "sha1": "06cdb37f394bdbebce94c64644ae4bc21bd98959",
-      "size": 2138329,
-      "enabled": true
-    },
-    {
-      "name": "xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
-      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
-      "sha1": "d0865b6153c4d0feaf1551fb5309884ec3568c03",
-      "size": 1387011,
-      "enabled": true
-    },
-    {
-      "name": "worldedit-mod-7.3.8.jar",
-      "path": "mods/worldedit-mod-7.3.8.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/worldedit-mod-7.3.8.jar",
-      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
-      "size": 6222854,
-      "enabled": true
-    },
-    {
-      "name": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
-      "path": "mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
-      "url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/mods__DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
-      "sha1": "bc865b11c94581949384b6d5820b58aee8b7273c",
-      "size": 30113661,
+      "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+      "size": 203149,
       "enabled": true
     },
     {
@@ -148,6 +324,2558 @@
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/b53801664367b25790a1402606c20ccdf12be837/mods/ramz-1.0.0.jar",
       "sha1": "b439ea26716f25bb483e44cae4944b69beaba00a",
       "size": 2096364,
+      "enabled": true
+    },
+    {
+      "name": "rubidium-extra-0.5.7e+mc1.21-build.132.jar",
+      "path": "mods/rubidium-extra-0.5.7e+mc1.21-build.132.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/649544cb91e1ced3e84b530ed5d0d53c32244a23/mods/rubidium-extra-0.5.7e+mc1.21-build.132.jar",
+      "sha1": "963b6b8c92197fd9a6f1dc80b9473e3d1b72256e",
+      "size": 383418,
+      "enabled": true
+    },
+    {
+      "name": "sbwdroneconfig-1.0.83 NeoForge 1.21.1.jar",
+      "path": "mods/sbwdroneconfig-1.0.83 NeoForge 1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e190139e968ac66e3d7df1e0b8de7df2de58b4cd/mods/sbwdroneconfig-1.0.83 NeoForge 1.21.1.jar",
+      "sha1": "04a72a63510e233579e8e3d2d336adb05b09be52",
+      "size": 3547781,
+      "enabled": true
+    },
+    {
+      "name": "screenshot-to-clipboard-neoforge-1.0.10.jar",
+      "path": "mods/screenshot-to-clipboard-neoforge-1.0.10.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/755a2e98df85f003e5de39d3170b56663bc07cf9/mods/screenshot-to-clipboard-neoforge-1.0.10.jar",
+      "sha1": "0ead4d47c48afc4525efd9bf7c949eb7d1e15f0e",
+      "size": 14146,
+      "enabled": true
+    },
+    {
+      "name": "smoothgui-neoforge-1.21.1-1.1.0.jar",
+      "path": "mods/smoothgui-neoforge-1.21.1-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d763420625744a4d7e2f4d9780af5dacff31da3a/mods/smoothgui-neoforge-1.21.1-1.1.0.jar",
+      "sha1": "7f92bfc79f754b68855770610ad79a3934703c25",
+      "size": 176633,
+      "enabled": true
+    },
+    {
+      "name": "smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "path": "mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/14bd9dce48050f56974f32cdc8e7a1886098bdc4/mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "sha1": "00338f16b360d6b24b53fc8f92b76256729aee75",
+      "size": 62900,
+      "enabled": true
+    },
+    {
+      "name": "sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
+      "path": "mods/sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
+      "sha1": "efc5edffe91596779a1ad3586e50a00126dc3341",
+      "size": 1284556,
+      "enabled": true
+    },
+    {
+      "name": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4ca6f7a11486029d98cfe27941a994532138a61c/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "sha1": "31cf754f9e5f62d1ca257f297e5dce394024696c",
+      "size": 202454,
+      "enabled": true
+    },
+    {
+      "name": "superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
+      "path": "mods/superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
+      "url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/mods__superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
+      "sha1": "4efc370919a87480b95975f180f41d0288314ee3",
+      "size": 31688244,
+      "enabled": true
+    },
+    {
+      "name": "suppressionmod-1.2.0.jar",
+      "path": "mods/suppressionmod-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/09ae8baeff182eaba64991638f956f672627cea4/mods/suppressionmod-1.2.0.jar",
+      "sha1": "963362f1f80d5ecf111c8e190b48024fa9473f3e",
+      "size": 60650,
+      "enabled": true
+    },
+    {
+      "name": "tacz-neoforge-1.21.1-1.1.8-r2.jar",
+      "path": "mods/tacz-neoforge-1.21.1-1.1.8-r2.jar",
+      "url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/mods__tacz-neoforge-1.21.1-1.1.8-r2.jar",
+      "sha1": "141ff5d0663530d483eb87bf572d2e2b6f24bc78",
+      "size": 56830354,
+      "enabled": true
+    },
+    {
+      "name": "tacz-pack-upgrader-2.1.1.jar",
+      "path": "mods/tacz-pack-upgrader-2.1.1.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/19ccd00f1de7c90282364465ca0e311f9e14e141/mods/tacz-pack-upgrader-2.1.1.jar",
+      "sha1": "6d3be0d3aacc19a88fb6dcec90367256924aa9f6",
+      "size": 6715769,
+      "enabled": true
+    },
+    {
+      "name": "tacz_bandits-1.0.0.jar",
+      "path": "mods/tacz_bandits-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1c9190ed64f5221328572a00b4ee283ea8b7f1be/mods/tacz_bandits-1.0.0.jar",
+      "sha1": "ed830591e32d331639d7d63ea197299b68c7bb66",
+      "size": 324687,
+      "enabled": true
+    },
+    {
+      "name": "voicechat-neoforge-1.21.1-2.6.18.jar",
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.18.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3b8be08ac38565bed750a6b1694fbbabb0b0490b/mods/voicechat-neoforge-1.21.1-2.6.18.jar",
+      "sha1": "c9e638f5c049fc143dc043c585b13e9078a3f71d",
+      "size": 4902837,
+      "enabled": true
+    },
+    {
+      "name": "worldedit-mod-7.3.8.jar",
+      "path": "mods/worldedit-mod-7.3.8.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/71baf5fa6a29bee3eea97d89ec056f952490bc1b/mods/worldedit-mod-7.3.8.jar",
+      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
+      "size": 6222854,
+      "enabled": true
+    },
+    {
+      "name": "xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
+      "path": "mods/xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ad679db5b84fec7a85742188b2d44f7e37a46fea/mods/xaerominimap-neoforge-1.21.1-25.3.13 (1).jar",
+      "sha1": "06cdb37f394bdbebce94c64644ae4bc21bd98959",
+      "size": 2138329,
+      "enabled": true
+    },
+    {
+      "name": "xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1c6a81fcc81d7d8c224456ddfe41625a714ce0f1/mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+      "sha1": "d0865b6153c4d0feaf1551fb5309884ec3568c03",
+      "size": 1387011,
+      "enabled": true
+    },
+    {
+      "name": "zombieawareness-neoforge-1.21.0-1.13.2.jar",
+      "path": "mods/zombieawareness-neoforge-1.21.0-1.13.2.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/39e986e8e6723e49868afecb441221ad0f105be3/mods/zombieawareness-neoforge-1.21.0-1.13.2.jar",
+      "sha1": "266a95f6fcdb7a629ed6e95d7b3d2b35724dc6a7",
+      "size": 304511,
+      "enabled": true
+    },
+    {
+      "name": "Butchery.toml",
+      "path": "config/Butchery.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/79acfbc4a59134354141b810d3808bc6a767e710/config/Butchery.toml",
+      "sha1": "93b8a82de8e96bb3a14f50d3fee4ba14039a7c1d",
+      "size": 4675,
+      "enabled": true
+    },
+    {
+      "name": "General.toml",
+      "path": "config/CoroUtil/General.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/f0d2ae7b89652876171181a21c926fa9c6b5c7ee/config/CoroUtil/General.toml",
+      "sha1": "1233bc5e9b76ae23493ad31db26e92b7da397270",
+      "size": 129,
+      "enabled": true
+    },
+    {
+      "name": "DistantHorizons.toml",
+      "path": "config/DistantHorizons.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/a15dcf8a714674617e9ff39e307b323571aee571/config/DistantHorizons.toml",
+      "sha1": "584c2a2f6c0270df844e2c5371d0aada520eb0f6",
+      "size": 32928,
+      "enabled": true
+    },
+    {
+      "name": "Undead_mobs.toml",
+      "path": "config/Undead_mobs.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/432522311898617c03741ee16f60ced4d3df8801/config/Undead_mobs.toml",
+      "sha1": "198067095c99c21a0a4a5b33f6e21b44ad31363f",
+      "size": 1944,
+      "enabled": true
+    },
+    {
+      "name": "acceleratedrendering-client.toml",
+      "path": "config/acceleratedrendering-client.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/fe22c67e97f677bd77210ec96602c3f6ac9a709e/config/acceleratedrendering-client.toml",
+      "sha1": "d6f7954e6baf4236aa77db48a18029125a4a13c1",
+      "size": 30569,
+      "enabled": true
+    },
+    {
+      "name": "badmobs-common-1.toml.bak",
+      "path": "config/badmobs-common-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d62a7856e9e539231708460a86db8c512041fd9d/config/badmobs-common-1.toml.bak",
+      "sha1": "d47675f72ad30a3654aefbb82d0e37c5da109119",
+      "size": 101318,
+      "enabled": true
+    },
+    {
+      "name": "badmobs-common-2.toml.bak",
+      "path": "config/badmobs-common-2.toml.bak",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/2cbb7e07908b4e9145aba69e2d23e50d7e726822/config/badmobs-common-2.toml.bak",
+      "sha1": "022d5f29e3d089ab0d6fd54e746acc6111d92d2e",
+      "size": 63614,
+      "enabled": true
+    },
+    {
+      "name": "badmobs-common-3.toml.bak",
+      "path": "config/badmobs-common-3.toml.bak",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/55ff25bff2796cb3c84163f3e5f49e0938289ea4/config/badmobs-common-3.toml.bak",
+      "sha1": "d675485877667f36b67f9f9fc050db7c365ebebb",
+      "size": 61080,
+      "enabled": true
+    },
+    {
+      "name": "badmobs-common.toml",
+      "path": "config/badmobs-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/7f25c566d8fd43f59ce32b1b702fa6ebfb7cdafa/config/badmobs-common.toml",
+      "sha1": "239280a72ce2cff2df0b96b5007bdda97df9613d",
+      "size": 100082,
+      "enabled": true
+    },
+    {
+      "name": "blur.json",
+      "path": "config/blur.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d23a0e32b5d2d357c7460ab441a77ec48fd63785/config/blur.json",
+      "sha1": "9c5cf335948396e8efa215d3243593f59b7f9603",
+      "size": 783,
+      "enabled": true
+    },
+    {
+      "name": "chatanimation.json",
+      "path": "config/chatanimation.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/856101b383265a456b0920aff5f3739d0d0a98ba/config/chatanimation.json",
+      "sha1": "318ec158d66ac817ce2bdbe6d6e4b08447c6d46f",
+      "size": 160,
+      "enabled": true
+    },
+    {
+      "name": "creativecore-client.json",
+      "path": "config/creativecore-client.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/c1eda2d6adeaa761a3ead6c5c628f68e8d19e5dc/config/creativecore-client.json",
+      "sha1": "2ac12a74fc6c40a697dfeb4ee9eda22e9241a6b7",
+      "size": 23,
+      "enabled": true
+    },
+    {
+      "name": "creativecore.json",
+      "path": "config/creativecore.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4e881e58af8b97aec58654ba9bb4130ded720012/config/creativecore.json",
+      "sha1": "b97078641402978a24ffe8af190038943b99438a",
+      "size": 274,
+      "enabled": true
+    },
+    {
+      "name": "curios-client.toml",
+      "path": "config/curios-client.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/7def973925952454a486868d190a2cb3a17d87d0/config/curios-client.toml",
+      "sha1": "7e66e02fbf04b28e7de60c4e675d2b5168be5ec6",
+      "size": 766,
+      "enabled": true
+    },
+    {
+      "name": "curios-common.toml",
+      "path": "config/curios-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6a572a64efe080b5c8602196af20c50046f618a6/config/curios-common.toml",
+      "sha1": "2805359d4ad1ce08ef52cc73f84a96dafdc41024",
+      "size": 159,
+      "enabled": true
+    },
+    {
+      "name": "curios-server.toml",
+      "path": "config/curios-server.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/820c8548354b554e4feb9a7cc762d4d7cc8827f9/config/curios-server.toml",
+      "sha1": "8ccde45d5edd3767324231935fe07ac2318a0eb5",
+      "size": 483,
+      "enabled": true
+    },
+    {
+      "name": "dynamiclights.cfg",
+      "path": "config/dynamiclights.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e037cd38b33d2f931e2a58e15796866eb1ac8456/config/dynamiclights.cfg",
+      "sha1": "052893e43cf26bda271228adcc738c1a511fb2eb",
+      "size": 65,
+      "enabled": true
+    },
+    {
+      "name": "dynamiclights_droppeditems.cfg",
+      "path": "config/dynamiclights_droppeditems.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ef57f391d61eceec027a40d793b03d0ae69c3d8c/config/dynamiclights_droppeditems.cfg",
+      "sha1": "c438902bf60adeccb641019a02c8a4c10a970bcc",
+      "size": 932,
+      "enabled": true
+    },
+    {
+      "name": "dynamiclights_selflight.cfg",
+      "path": "config/dynamiclights_selflight.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/98505be95320f2ab2b3573a2eba8b7aee366f831/config/dynamiclights_selflight.cfg",
+      "sha1": "c438902bf60adeccb641019a02c8a4c10a970bcc",
+      "size": 932,
+      "enabled": true
+    },
+    {
+      "name": "embeddium-fingerprint.json",
+      "path": "config/embeddium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/470f06625e142a58bf6337b2d2b0694a72847a4e/config/embeddium-fingerprint.json",
+      "sha1": "93035ecb7e69554b5879e66679b50c8db1c55651",
+      "size": 427,
+      "enabled": true
+    },
+    {
+      "name": "embeddium-mixins.properties",
+      "path": "config/embeddium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/effd064bc245dbe019551bf45ffe92325c55db11/config/embeddium-mixins.properties",
+      "sha1": "f7292246e0ecc35d4f1cd57dd52a56b1958363b4",
+      "size": 268,
+      "enabled": true
+    },
+    {
+      "name": "embeddium-options.json",
+      "path": "config/embeddium-options.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/f44e8cfa90f81e6091e089463ea83cb97b37682e/config/embeddium-options.json",
+      "sha1": "44a52ad350c448ad04b015958aa6b2fff9b0a23d",
+      "size": 847,
+      "enabled": true
+    },
+    {
+      "name": "entity_model_features.json",
+      "path": "config/entity_model_features.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/409823fc15f6639e233700ca222bb2346b52f61e/config/entity_model_features.json",
+      "sha1": "99c62970fbba2f747e648d9f7004a4426e9b422e",
+      "size": 1207,
+      "enabled": true
+    },
+    {
+      "name": "entity_texture_features.json",
+      "path": "config/entity_texture_features.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/f84fe26ce3e8729fd38dc14187a0bdf67b2f6b07/config/entity_texture_features.json",
+      "sha1": "0c6f24de039524572d381135891103ff4f3c4930",
+      "size": 1421,
+      "enabled": true
+    },
+    {
+      "name": "entityculling.json",
+      "path": "config/entityculling.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6d47c43ee99d6303111e5389391f58e27c51727c/config/entityculling.json",
+      "sha1": "879f140a7ee1bb21764e896f01b2d709051faeb4",
+      "size": 1921,
+      "enabled": true
+    },
+    {
+      "name": "etf_warnings.json",
+      "path": "config/etf_warnings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9262b4ca1506314f34bf9179183ce16ee1052038/config/etf_warnings.json",
+      "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
+      "size": 28,
+      "enabled": true
+    },
+    {
+      "name": "button.jpg",
+      "path": "config/fancymenu/assets/button.jpg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/16d83df4d9aac59bcf4b79502093c8e2b43412b0/config/fancymenu/assets/button.jpg",
+      "sha1": "854d086341ab1d8cd926b8df7a61170f8822c272",
+      "size": 4667,
+      "enabled": true
+    },
+    {
+      "name": "button1.jpg",
+      "path": "config/fancymenu/assets/button1.jpg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9a60741dc6a5890635e91c3492f7d6bf482dc090/config/fancymenu/assets/button1.jpg",
+      "sha1": "1ac52310070bfa6c112fddba0e2ab75553be399d",
+      "size": 4890,
+      "enabled": true
+    },
+    {
+      "name": "button2.jpg",
+      "path": "config/fancymenu/assets/button2.jpg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4bdaaf85ba49f878ecd164ecb32cd8a402fb17c3/config/fancymenu/assets/button2.jpg",
+      "sha1": "4ab8621ad0bea5e5f68c3437f37020e66ba111bf",
+      "size": 4934,
+      "enabled": true
+    },
+    {
+      "name": "buttonexit.jpeg",
+      "path": "config/fancymenu/assets/buttonexit.jpeg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/56acbbeb8e5af78429c92748f811d54b4a503390/config/fancymenu/assets/buttonexit.jpeg",
+      "sha1": "9c415b82f2357645a7964ca218699f82dc2a2264",
+      "size": 4283,
+      "enabled": true
+    },
+    {
+      "name": "fc8a3d245d781251.png",
+      "path": "config/fancymenu/assets/fc8a3d245d781251.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/533fcaa70428ec07ef580c2c2df3f4cd1d5d2b9a/config/fancymenu/assets/fc8a3d245d781251.png",
+      "sha1": "8e9b8c1add7403448e1a543fa690c9c05e074fc4",
+      "size": 1535299,
+      "enabled": true
+    },
+    {
+      "name": "frame101.png",
+      "path": "config/fancymenu/assets/frame101.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/706802267f33f6f6e0b885476aa2fa94fe093db8/config/fancymenu/assets/frame101.png",
+      "sha1": "24ebc82ce076efb2604b3399519aa9ecd7b416f3",
+      "size": 2994310,
+      "enabled": true
+    },
+    {
+      "name": "greenbutton.jpeg",
+      "path": "config/fancymenu/assets/greenbutton.jpeg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/bd18a12db5322b84d2a0c0d544e224e63e3f7b54/config/fancymenu/assets/greenbutton.jpeg",
+      "sha1": "89f212e8cc0cf3de18bf2027e6c340db09729407",
+      "size": 4691,
+      "enabled": true
+    },
+    {
+      "name": "greenbutton1.jpeg",
+      "path": "config/fancymenu/assets/greenbutton1.jpeg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/40d124f73014110393fcf2216a176dc83e35bb08/config/fancymenu/assets/greenbutton1.jpeg",
+      "sha1": "290ed6cb4241734c273c8ce95952d1c68ed98207",
+      "size": 4937,
+      "enabled": true
+    },
+    {
+      "name": "logonophone.png",
+      "path": "config/fancymenu/assets/logonophone.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/c6491dfe9d75e018ee1718e5aa4263e6874cee15/config/fancymenu/assets/logonophone.png",
+      "sha1": "eeab563b79d66c85a406aa96bcaf3895d7be1ac1",
+      "size": 820310,
+      "enabled": true
+    },
+    {
+      "name": "logonophone1.png",
+      "path": "config/fancymenu/assets/logonophone1.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/76dd86605c35ac48079f1f355a063823b29a6dbc/config/fancymenu/assets/logonophone1.png",
+      "sha1": "10cc9be9b90118c33cacdc721e36a8a57de532eb",
+      "size": 493155,
+      "enabled": true
+    },
+    {
+      "name": "logonophone2.png",
+      "path": "config/fancymenu/assets/logonophone2.png",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/55b1647d31fc294c92243d5d1eff5aec2aa2f8f4/config/fancymenu/assets/logonophone2.png",
+      "sha1": "0b1626bc9945ea14707c57552ffa1a79018887bb",
+      "size": 533280,
+      "enabled": true
+    },
+    {
+      "name": "custom_gui_screens.txt",
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/24ddf9f558345daabec1dc8b2e671a25c2280732/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+      "size": 51,
+      "enabled": true
+    },
+    {
+      "name": "customizablemenus.txt",
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/c375b1520a49193d2eb384df317e02567a53b53d/config/fancymenu/customizablemenus.txt",
+      "sha1": "668a5707ab1d69abf6e9ab158cb7adac6e457b35",
+      "size": 356,
+      "enabled": true
+    },
+    {
+      "name": "connect_screen_layout.txt",
+      "path": "config/fancymenu/customization/connect_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/a64f58f190a723a39571700a66d516b122682644/config/fancymenu/customization/connect_screen_layout.txt",
+      "sha1": "aea3c8915e1c9ff3ad3e1c3d65365efa5f742bf2",
+      "size": 15962,
+      "enabled": true
+    },
+    {
+      "name": "generic_dirt_message_screen_layout.txt",
+      "path": "config/fancymenu/customization/generic_dirt_message_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/16aa1be22c8a1dda54bad939e99cdb3206cb4865/config/fancymenu/customization/generic_dirt_message_screen_layout.txt",
+      "sha1": "f129982e79c418b7f89fcd41bc75166dbe33b038",
+      "size": 15121,
+      "enabled": true
+    },
+    {
+      "name": "level_loading_screen_layout.txt",
+      "path": "config/fancymenu/customization/level_loading_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8e8ac5ef8480b298eb0477c069b242ce533a252c/config/fancymenu/customization/level_loading_screen_layout.txt",
+      "sha1": "aef76cfa8efd2986dbdcdb35b22b0cbaabf747c6",
+      "size": 17719,
+      "enabled": true
+    },
+    {
+      "name": "progress_screen_layout.txt",
+      "path": "config/fancymenu/customization/progress_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1857c0444befecc13b275f982e644be62ed4ad61/config/fancymenu/customization/progress_screen_layout.txt",
+      "sha1": "96bb24afcf15258541eb0e3bcbc016b0e7107b91",
+      "size": 15801,
+      "enabled": true
+    },
+    {
+      "name": "receiving_level_screen_layout.txt",
+      "path": "config/fancymenu/customization/receiving_level_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/57ea9ab5bf7b63c8204e65046701f6fe67753da7/config/fancymenu/customization/receiving_level_screen_layout.txt",
+      "sha1": "94b2e727b149c7940fb448fb57825ebffd595762",
+      "size": 13161,
+      "enabled": true
+    },
+    {
+      "name": "title_screen_layout.txt",
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1b326c88bbc07cd8a94bbdba56b14739abc0f04c/config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "5a52072a294b9231c2ce77e13e18e27601a77b5d",
+      "size": 58536,
+      "enabled": true
+    },
+    {
+      "name": "element_layer_control.lewidget",
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/c5eafd741fb4fff2b34cc44d1d5000014d300f6b/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
+      "size": 197,
+      "enabled": true
+    },
+    {
+      "name": "legacy_checklist.txt",
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1bab21215e031e49f83f4204c8279ec5c6eee439/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+      "size": 42,
+      "enabled": true
+    },
+    {
+      "name": "normalized_scroll_screens.json",
+      "path": "config/fancymenu/normalized_scroll_screens.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/f5a5c4a73584ea78f20b346baece80ba83ddb44d/config/fancymenu/normalized_scroll_screens.json",
+      "sha1": "8f39232b4e0c6bbbb366de0fd7aaf67284956f8e",
+      "size": 27,
+      "enabled": true
+    },
+    {
+      "name": "options.txt",
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ea33e6fea095ed8a4add109be4ce186e96ec1fc6/config/fancymenu/options.txt",
+      "sha1": "fb6d8ebb695417b2ce9668309ae6fc20dfd8a0fa",
+      "size": 4399,
+      "enabled": true
+    },
+    {
+      "name": "cherry_blossom.json",
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/60d9d53ab6b96d8bbe2750ead88f17fe616d2931/config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
+      "size": 9349,
+      "enabled": true
+    },
+    {
+      "name": "cozy_campfire.json",
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/60411df83923bc6341f9ae7162f7fc9d20561f70/config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
+      "size": 9347,
+      "enabled": true
+    },
+    {
+      "name": "dark.json",
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/545cd12f835a35fb19b7e89ef50db7b864f9cc44/config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
+      "size": 9329,
+      "enabled": true
+    },
+    {
+      "name": "dark_high_contrast.json",
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d08bcdf9cb71593df0fc8268a82985f3cacad2ed/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7",
+      "size": 9359,
+      "enabled": true
+    },
+    {
+      "name": "light.json",
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/2fbbf203afb49f1cd6d8df7aab84f33a05f36cd4/config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
+      "size": 9331,
+      "enabled": true
+    },
+    {
+      "name": "light_high_contrast.json",
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8d6ccf80ffcb6dbe6cfe6f7e00d195f16eb0474f/config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
+      "size": 9361,
+      "enabled": true
+    },
+    {
+      "name": "pumpkin_soup.json",
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/7069b3517e1ce4dc41c78aad6ad3a495257957bc/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
+      "size": 9345,
+      "enabled": true
+    },
+    {
+      "name": "purple_void.json",
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ac8ba59ffac17b88a3dc9d6958897cc007eaae36/config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
+      "size": 9343,
+      "enabled": true
+    },
+    {
+      "name": "spooky_season.json",
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/f8b7fde349e2c9c190b66b408ba2574e28e1744e/config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
+      "size": 9347,
+      "enabled": true
+    },
+    {
+      "name": "user_variables.db",
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d4f5b09fc3623e120091a33f87dd60587ca4172a/config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
+      "size": 23,
+      "enabled": true
+    },
+    {
+      "name": "ferritecore-mixin.toml",
+      "path": "config/ferritecore-mixin.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/58dc2c643d4d120153276b5b1dbe6144452246d7/config/ferritecore-mixin.toml",
+      "sha1": "117f758af35aac859c535d5d2da96c5747a87aea",
+      "size": 1603,
+      "enabled": true
+    },
+    {
+      "name": "fml.toml",
+      "path": "config/fml.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/08035f05a8e9b1b618e5ec86ea3400aa0ad8facb/config/fml.toml",
+      "sha1": "3debefd749f47ad06f09a206e0e2ce2c42529cd2",
+      "size": 1552,
+      "enabled": true
+    },
+    {
+      "name": "hudcreator-server.toml",
+      "path": "config/hudcreator-server.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ee6cc69b1771407ffdcd4a1d137669e76482f34f/config/hudcreator-server.toml",
+      "sha1": "c048bedcdf2d83d15b8623973afe7a2a60e49caf",
+      "size": 1217,
+      "enabled": true
+    },
+    {
+      "name": "immediatelyfast.json",
+      "path": "config/immediatelyfast.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/c40240d308b0dca15ef27115a466f295a488b54f/config/immediatelyfast.json",
+      "sha1": "9005fdfb4eeaa64cf158b244b263aa5347d03db0",
+      "size": 1114,
+      "enabled": true
+    },
+    {
+      "name": "iris-excluded.json",
+      "path": "config/iris-excluded.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/c7edf5b418570459956605659ee5359270a1b7eb/config/iris-excluded.json",
+      "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
+      "size": 31,
+      "enabled": true
+    },
+    {
+      "name": "iris.properties",
+      "path": "config/iris.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e0bb458889e9bdc8106e9d9b9bf9eeeb7083ba09/config/iris.properties",
+      "sha1": "b7795562badd32d32169224e786f3224ed671ab7",
+      "size": 318,
+      "enabled": true
+    },
+    {
+      "name": "blacklist.json",
+      "path": "config/jei/blacklist.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/a3923faaef98c4d20f6a57e2534de274220bce86/config/jei/blacklist.json",
+      "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39",
+      "size": 19,
+      "enabled": true
+    },
+    {
+      "name": "ingredient-list-mod-sort-order.ini",
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/11a478d6bb62a2782e9477b539aa4c752e354b8c/config/jei/ingredient-list-mod-sort-order.ini",
+      "sha1": "86958b639b08c07cc8156d63714653e40703644b",
+      "size": 227,
+      "enabled": true
+    },
+    {
+      "name": "ingredient-list-type-sort-order.ini",
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/7dbb4e3764aebebdce666f469b1d3027851f28cb/config/jei/ingredient-list-type-sort-order.ini",
+      "sha1": "19a5db05bca2bd56f55af89504017ad52501c4d4",
+      "size": 78,
+      "enabled": true
+    },
+    {
+      "name": "jei-client.ini",
+      "path": "config/jei/jei-client.ini",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8f3cb1f18c5ce6f94b4d199ffbc140bfadc97a69/config/jei/jei-client.ini",
+      "sha1": "69412bbd83be62c20432b9cdc14cd7525e3fcbca",
+      "size": 11427,
+      "enabled": true
+    },
+    {
+      "name": "jei-colors.ini",
+      "path": "config/jei/jei-colors.ini",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3f9b67223419441cc850321ddcfec26e753bfd17/config/jei/jei-colors.ini",
+      "sha1": "46f80e4857aa8f8d9b0928e107c4391d54b3b313",
+      "size": 1362,
+      "enabled": true
+    },
+    {
+      "name": "jei-debug.ini",
+      "path": "config/jei/jei-debug.ini",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/829d740cb105128036ea8d0571f5f91f1a8f91fc/config/jei/jei-debug.ini",
+      "sha1": "e582d7501089a0299813e5ae0a66c3c8551d725a",
+      "size": 1511,
+      "enabled": true
+    },
+    {
+      "name": "jei-mod-id-format.ini",
+      "path": "config/jei/jei-mod-id-format.ini",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/5e32a8d0f3f053fe8b55a3400fc947d175e9746f/config/jei/jei-mod-id-format.ini",
+      "sha1": "a717365910e96765045d598e83bff986f84bbc54",
+      "size": 626,
+      "enabled": true
+    },
+    {
+      "name": "recipe-category-sort-order.ini",
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1a768323d8fb0a92f7725506cc405ae159456a12/config/jei/recipe-category-sort-order.ini",
+      "sha1": "e1f55a38c19b25716a2e7ab9b6602645810ee39c",
+      "size": 673,
+      "enabled": true
+    },
+    {
+      "name": "jei-server.toml",
+      "path": "config/jei-server.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9b393927a253b26d3dd94001bf35e9c38b57db66/config/jei-server.toml",
+      "sha1": "91447001769dc0f239a44ffce274f7affa1bbaa8",
+      "size": 324,
+      "enabled": true
+    },
+    {
+      "name": "de_de.local",
+      "path": "config/konkrete/locals/de_de.local",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3c8f9e9759b43cef9cbef4a1696cfd4fe3bf7d1b/config/konkrete/locals/de_de.local",
+      "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+      "size": 369,
+      "enabled": true
+    },
+    {
+      "name": "en_us.local",
+      "path": "config/konkrete/locals/en_us.local",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8fcc0ccf483078704ad6b239837fb09c3739a199/config/konkrete/locals/en_us.local",
+      "sha1": "42badc338e767559db38a67bd3e8020a92000e56",
+      "size": 426,
+      "enabled": true
+    },
+    {
+      "name": "pl_pl.local",
+      "path": "config/konkrete/locals/pl_pl.local",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d8049c41ef43a527c29f6a969ee2ef40412e20bc/config/konkrete/locals/pl_pl.local",
+      "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+      "size": 313,
+      "enabled": true
+    },
+    {
+      "name": "pt_br.local",
+      "path": "config/konkrete/locals/pt_br.local",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/996495f9b8bf860f249ba465e56406fa4e6d6ed1/config/konkrete/locals/pt_br.local",
+      "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+      "size": 322,
+      "enabled": true
+    },
+    {
+      "name": "lithium.properties",
+      "path": "config/lithium.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e5bfe841a7619d9faa38b1c7218aedc44a8ea931/config/lithium.properties",
+      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
+      "size": 267,
+      "enabled": true
+    },
+    {
+      "name": "lrtactical-client.toml",
+      "path": "config/lrtactical-client.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/cc3593ed0d8fa2f15c28993582fa1224f8166750/config/lrtactical-client.toml",
+      "sha1": "d972934d20f28b5672b2c42915ba96c57632f6ca",
+      "size": 214,
+      "enabled": true
+    },
+    {
+      "name": "lrtactical-common.toml",
+      "path": "config/lrtactical-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4c91de24a9db9c2ce8289d9a16e7af2b8648bd4a/config/lrtactical-common.toml",
+      "sha1": "5ba9aa9cdc41405e52f92d7e8f9c1f20701e07d3",
+      "size": 373,
+      "enabled": true
+    },
+    {
+      "name": "lrtactical-server.toml",
+      "path": "config/lrtactical-server.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/46feef44af7ff1ec1699b1629517338a7a693754/config/lrtactical-server.toml",
+      "sha1": "f030dc46226304e80fd501f36298db5aa83c6fa1",
+      "size": 524,
+      "enabled": true
+    },
+    {
+      "name": "midnightlib.json",
+      "path": "config/midnightlib.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/735892a961b81811827ae77e5bab61021557a9d0/config/midnightlib.json",
+      "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db",
+      "size": 37,
+      "enabled": true
+    },
+    {
+      "name": "mobsunscreen-common.toml",
+      "path": "config/mobsunscreen-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/95cea8abf1650535c879163d8a6c099f729b2046/config/mobsunscreen-common.toml",
+      "sha1": "731c56272f6dfd1bcf613ac6128a7e7fe081f3f5",
+      "size": 403,
+      "enabled": true
+    },
+    {
+      "name": "mtsconfig.json",
+      "path": "config/mtsconfig.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/0c9309ca883e793150d1bbce42f9547a3fa589e8/config/mtsconfig.json",
+      "sha1": "831a88cff4f7b849f85e448913108cedf8e69d4a",
+      "size": 13450,
+      "enabled": true
+    },
+    {
+      "name": "mtsconfigclient.json",
+      "path": "config/mtsconfigclient.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/04adaafbf2daff1ab1fb4a9089495ea0eb3380fc/config/mtsconfigclient.json",
+      "sha1": "a77daf5694d84e18ed00b0ec9c87099f60c2ac11",
+      "size": 24696,
+      "enabled": true
+    },
+    {
+      "name": "mutantszombies-server.toml",
+      "path": "config/mutantszombies-server.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6283c7be0456e71903b9a4c4fb4d04d67c93179a/config/mutantszombies-server.toml",
+      "sha1": "8c2ec7bb68bc04a8e3c0f7334ee629bf2085a0b1",
+      "size": 1077,
+      "enabled": true
+    },
+    {
+      "name": "neoforge-client.toml",
+      "path": "config/neoforge-client.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/fc236c54083136a69b6a9468e50796c429c42b41/config/neoforge-client.toml",
+      "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
+      "size": 578,
+      "enabled": true
+    },
+    {
+      "name": "neoforge-common.toml",
+      "path": "config/neoforge-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/f72ab4ff26527b53513af9b821ef25715cac515e/config/neoforge-common.toml",
+      "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f",
+      "size": 772,
+      "enabled": true
+    },
+    {
+      "name": "neoforge-server.toml",
+      "path": "config/neoforge-server.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/dc0928ccb7ab88201afbe8c23be1516304ad9ba7/config/neoforge-server.toml",
+      "sha1": "536538f1f29efb49318318113530bd4fd74c235b",
+      "size": 1177,
+      "enabled": true
+    },
+    {
+      "name": "nobz-common.toml",
+      "path": "config/nobz-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/fcac0920b78c90fc668b0b394a03eab12b972a12/config/nobz-common.toml",
+      "sha1": "7cf14d5bd71514c1716d4ec5eaa7a662b5687b6d",
+      "size": 318,
+      "enabled": true
+    },
+    {
+      "name": "oculus.properties",
+      "path": "config/oculus.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e3a7e5b301f25a2a8f6997409ee67dc8ef16411e/config/oculus.properties",
+      "sha1": "3659596647e8494e2a65707fd0426325f972a580",
+      "size": 255,
+      "enabled": true
+    },
+    {
+      "name": "playerrevive-client.json",
+      "path": "config/playerrevive-client.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/a0948fd7982bb9788b9026b84e8d47320ca6e1be/config/playerrevive-client.json",
+      "sha1": "1b8b6d8f571b442eaa92f6c24c995c4b4d1275fa",
+      "size": 131,
+      "enabled": true
+    },
+    {
+      "name": "playerrevive.json",
+      "path": "config/playerrevive.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e2bdd3644efb0a708069183603e306338454a1be/config/playerrevive.json",
+      "sha1": "e1910e72770956d61f2048bde096af534a501533",
+      "size": 2273,
+      "enabled": true
+    },
+    {
+      "name": "ramz-common-1.toml.bak",
+      "path": "config/ramz-common-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/2476ac3eb6012a1069833f21ea451db5417c8e02/config/ramz-common-1.toml.bak",
+      "sha1": "93cfe709551f135e4dfda777c868817860a748d4",
+      "size": 584,
+      "enabled": true
+    },
+    {
+      "name": "ramz-common.toml",
+      "path": "config/ramz-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1a2404f7e346c76a65403755fe1e3418fe17f1dc/config/ramz-common.toml",
+      "sha1": "93cfe709551f135e4dfda777c868817860a748d4",
+      "size": 584,
+      "enabled": true
+    },
+    {
+      "name": "rrls.toml",
+      "path": "config/rrls.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9164e5766cf5503224b57880b68a29af48f8049d/config/rrls.toml",
+      "sha1": "fff057532060a7606b97dbf8829b9bd8cf3bea16",
+      "size": 924,
+      "enabled": true
+    },
+    {
+      "name": "sbwdroneconfig-common.toml",
+      "path": "config/sbwdroneconfig-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e220e0c5ee15997ff719de5ceeca3c6b098fd604/config/sbwdroneconfig-common.toml",
+      "sha1": "a3000c724dfe6e6f794a13746f46c51ac504e252",
+      "size": 5546,
+      "enabled": true
+    },
+    {
+      "name": "smoothgui.json",
+      "path": "config/smoothgui.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/cc19a38e59b2ecbcf610441f5274f1818ec28396/config/smoothgui.json",
+      "sha1": "9d051dc240c7ff14f5f89af073d405aa677d6198",
+      "size": 164,
+      "enabled": true
+    },
+    {
+      "name": "smoothswapping.json",
+      "path": "config/smoothswapping.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/84cd628ebc6ccc2d558da7c1f8e270279a0a3399/config/smoothswapping.json",
+      "sha1": "845ccd1f96cf635d7adbe528481364bdcbce3335",
+      "size": 72,
+      "enabled": true
+    },
+    {
+      "name": "sodium-extra-options.json",
+      "path": "config/sodium-extra-options.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9f77e1c50423a3a9856c45348b331c738c94f5eb/config/sodium-extra-options.json",
+      "sha1": "20da2d32f90d06b613d0a44eb4b1c0d0b631fdfe",
+      "size": 5713,
+      "enabled": true
+    },
+    {
+      "name": "sodium-extra.properties",
+      "path": "config/sodium-extra.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/5697a063b44c548bb595f6cd6d2bb15bee88ab2b/config/sodium-extra.properties",
+      "sha1": "e90b2514226a0624cf42112b42477f9872598b89",
+      "size": 360,
+      "enabled": true
+    },
+    {
+      "name": "sodium-fingerprint.json",
+      "path": "config/sodium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/5742852e40e645f31039e7e81556f8d2de7c0bdc/config/sodium-fingerprint.json",
+      "sha1": "4a92c763f77b6b029ac84960d9a91f3c9d97bb1a",
+      "size": 427,
+      "enabled": true
+    },
+    {
+      "name": "sodium-mixins.properties",
+      "path": "config/sodium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6588417fa2e5e2e94930045a40772c9d9d04ce4f/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
+      "size": 258,
+      "enabled": true
+    },
+    {
+      "name": "sodium-options.json",
+      "path": "config/sodium-options.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/57e155353f213c7a6e3448e34d4090dc9cb62518/config/sodium-options.json",
+      "sha1": "2f221c55c9278f683b4afe220649abf79f130728",
+      "size": 685,
+      "enabled": true
+    },
+    {
+      "name": "occlusion.properties",
+      "path": "config/sound_physics_remastered/occlusion.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/f20f35273c212607309271ba3e7cb61e51c06d3b/config/sound_physics_remastered/occlusion.properties",
+      "sha1": "63e8843f243c38bc7aa44d99ce4f562991890350",
+      "size": 4831,
+      "enabled": true
+    },
+    {
+      "name": "reflectivity.properties",
+      "path": "config/sound_physics_remastered/reflectivity.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/23cfd0660df113f0a9327ce1c07dfad86b0f7b2c/config/sound_physics_remastered/reflectivity.properties",
+      "sha1": "95feb43eb67757038518212b08739cb39bb9763e",
+      "size": 4713,
+      "enabled": true
+    },
+    {
+      "name": "sound_rates.properties",
+      "path": "config/sound_physics_remastered/sound_rates.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9f74902f3cfe74cc1027a938f1bde242654c5b2d/config/sound_physics_remastered/sound_rates.properties",
+      "sha1": "528f89637ff2b79067d16b5b9abc8a4cd406058c",
+      "size": 70836,
+      "enabled": true
+    },
+    {
+      "name": "soundphysics.properties",
+      "path": "config/sound_physics_remastered/soundphysics.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6e331094105dca92d7b7185babb9fe3949919d10/config/sound_physics_remastered/soundphysics.properties",
+      "sha1": "d28f5f62aebcbe96ce0ad333b8cb8298776d20f8",
+      "size": 5104,
+      "enabled": true
+    },
+    {
+      "name": "superbwarfare-client.toml",
+      "path": "config/superbwarfare-client.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1838e4ab3fd41c2702f823e6fb2f141d68195db4/config/superbwarfare-client.toml",
+      "sha1": "ec8d9309ae21357822af4232f0d85290058112c4",
+      "size": 3963,
+      "enabled": true
+    },
+    {
+      "name": "superbwarfare-common.toml",
+      "path": "config/superbwarfare-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/127ec1664170211445577701725665754e203202/config/superbwarfare-common.toml",
+      "sha1": "8f76b7ec19aca8ed3d9d9f7eb9591970a166513c",
+      "size": 464,
+      "enabled": true
+    },
+    {
+      "name": "superbwarfare-server.toml",
+      "path": "config/superbwarfare-server.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1e7f2afbf4c8b1fcec9b453364d48b0c995d0585/config/superbwarfare-server.toml",
+      "sha1": "3d4f9e8976d18f904444cae00eeefebe5666b5ff",
+      "size": 13676,
+      "enabled": true
+    },
+    {
+      "name": "suppressionmod-server.toml",
+      "path": "config/suppressionmod-server.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/2f41dbe6cb65934517cb2364ae1ebea80c71f3bc/config/suppressionmod-server.toml",
+      "sha1": "760a9606ac7df46046bfcc66be5cefa96e7d90c0",
+      "size": 2744,
+      "enabled": true
+    },
+    {
+      "name": "tacz-client.toml",
+      "path": "config/tacz-client.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/05abe79caf2751a7d7b950ee6dcd405324031117/config/tacz-client.toml",
+      "sha1": "cb3330674011bf43acd30f298a3e6eb83044faca",
+      "size": 3665,
+      "enabled": true
+    },
+    {
+      "name": "tacz-common.toml",
+      "path": "config/tacz-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d42d891a166290ba6c78589dea146df31f66af31/config/tacz-common.toml",
+      "sha1": "c0b708d781597beeec945f5cf1f0c041a1d5510a",
+      "size": 2316,
+      "enabled": true
+    },
+    {
+      "name": "tacz-pre.toml",
+      "path": "config/tacz-pre.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/b94f2edc11e61679da678c41046dda2026149d66/config/tacz-pre.toml",
+      "sha1": "00508fee6886dc4fb6271c76dab70ecf3cd05a4d",
+      "size": 218,
+      "enabled": true
+    },
+    {
+      "name": "tacz-server.toml",
+      "path": "config/tacz-server.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d714d89d3e1248a4a9ec01b76d16e5b1d5f6bac9/config/tacz-server.toml",
+      "sha1": "014a9830fa9117e6e0cc5c30a75b7ee9f19e3f3b",
+      "size": 2098,
+      "enabled": true
+    },
+    {
+      "name": "attribute_pool.json",
+      "path": "config/tacz_attributes_addon/attribute_pool.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/31d72f531a93b79351cccf3ac6014d937053103b/config/tacz_attributes_addon/attribute_pool.json",
+      "sha1": "e50fb1f2586d8c03735e231b15abcbafde66ec6b",
+      "size": 13650,
+      "enabled": true
+    },
+    {
+      "name": "gun_attribute_overrides.json",
+      "path": "config/tacz_attributes_addon/gun_attribute_overrides.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8df7ee9d2dc15c92b99a132c939a97d923868514/config/tacz_attributes_addon/gun_attribute_overrides.json",
+      "sha1": "e780fc2c5f6980cc72ecd58c98b9bff5903eb0e9",
+      "size": 1569,
+      "enabled": true
+    },
+    {
+      "name": "station_materials.json",
+      "path": "config/tacz_attributes_addon/station_materials.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9d4aedf56348a98359f659fb302422bf9a002578/config/tacz_attributes_addon/station_materials.json",
+      "sha1": "06afb9b05e5c1dd30a8778b26a431cd2f93328f9",
+      "size": 59,
+      "enabled": true
+    },
+    {
+      "name": "weapon_attributes.json",
+      "path": "config/tacz_attributes_addon/weapon_attributes.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/91c3b8f9ca30a54683ef58ac9a7ec443ba6a9fc8/config/tacz_attributes_addon/weapon_attributes.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "size": 2,
+      "enabled": true
+    },
+    {
+      "name": "tacz_attributes_addon-common.toml",
+      "path": "config/tacz_attributes_addon-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/abf23c599b7791272e7539ec1e9a0413258ba54c/config/tacz_attributes_addon-common.toml",
+      "sha1": "fa1f95b9d86c261f30eaf13a2d31fabd4a8d7330",
+      "size": 5323,
+      "enabled": true
+    },
+    {
+      "name": "transition.json",
+      "path": "config/transition.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3b4dfe32b53b5fce2c5376e8ca3d59eaf2e01251/config/transition.json",
+      "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5",
+      "size": 97,
+      "enabled": true
+    },
+    {
+      "name": "trender.json",
+      "path": "config/trender.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/096164c2098c0d4b13fc6fb06b32947ce0748d61/config/trender.json",
+      "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
+      "size": 47,
+      "enabled": true
+    },
+    {
+      "name": "category-volumes.properties",
+      "path": "config/voicechat/category-volumes.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/89603a0d1395ab26b3883ebc7839a89a9e3d7bb1/config/voicechat/category-volumes.properties",
+      "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
+      "size": 46,
+      "enabled": true
+    },
+    {
+      "name": "player-volumes.properties",
+      "path": "config/voicechat/player-volumes.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/2072bbfbc8a90c29f5275632d88f7c20501e68f6/config/voicechat/player-volumes.properties",
+      "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
+      "size": 44,
+      "enabled": true
+    },
+    {
+      "name": "translations.properties",
+      "path": "config/voicechat/translations.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ef14cc6485280242dd1585ff95038b1027ba8640/config/voicechat/translations.properties",
+      "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
+      "size": 1182,
+      "enabled": true
+    },
+    {
+      "name": "username-cache.json",
+      "path": "config/voicechat/username-cache.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3c4a362b39735a57531af685423ac0a818a51af4/config/voicechat/username-cache.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "size": 2,
+      "enabled": true
+    },
+    {
+      "name": "voicechat-client.properties",
+      "path": "config/voicechat/voicechat-client.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d6665752d09c1eb3833a9885aebbf52cd37c97a0/config/voicechat/voicechat-client.properties",
+      "sha1": "e841295c49c959ca19a7ae8169cacf7c14e4bf27",
+      "size": 5231,
+      "enabled": true
+    },
+    {
+      "name": "voicechat-server.properties",
+      "path": "config/voicechat/voicechat-server.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/01db810c27a27a02f5d3a4e54303d2b699975338/config/voicechat/voicechat-server.properties",
+      "sha1": "c9f0e525aa87ebd39f92d965c0d3e1da6ddfbb20",
+      "size": 2830,
+      "enabled": true
+    },
+    {
+      "name": "warbornrenewed-common.toml",
+      "path": "config/warbornrenewed-common.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/50382b4114a88005585ca315fa712321c3f8c00e/config/warbornrenewed-common.toml",
+      "sha1": "81bb3d07fd06fa4025e9299ec5b9b07ca7fee08d",
+      "size": 327,
+      "enabled": true
+    },
+    {
+      "name": ".unpack_finished",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/.unpack_finished",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/f10d81477169d6efe6292a283cbdb9687b1f70ce/config/worldedit/.archive-unpack/5f7cd289/.unpack_finished",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/af/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e1cd9016f0c1c7c2c27790ac5f055bcfe68e7bb9/config/worldedit/.archive-unpack/5f7cd289/af/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/an/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/a532d79deff00e536a7bffe508bd91aabf99add9/config/worldedit/.archive-unpack/5f7cd289/an/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ar/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/bdb564d24824df3c92e0c69be5cc914a44ff5051/config/worldedit/.archive-unpack/5f7cd289/ar/strings.json",
+      "sha1": "eb7aca3e7bf344549878fcb30c7f50e66c9c04cd",
+      "size": 4566,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ast/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/72e461f0abbd50fa037272be194f7c3101c6d4ba/config/worldedit/.archive-unpack/5f7cd289/ast/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/az/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/91e9f9e6f65d0c0513a61f52ca6b6f2848cf5a71/config/worldedit/.archive-unpack/5f7cd289/az/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ba/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/b143b2c75ee174b1534a8383cb412447b45c5cfd/config/worldedit/.archive-unpack/5f7cd289/ba/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/be/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4d31d3964065b8f5501ae9018568c0e3be9657ae/config/worldedit/.archive-unpack/5f7cd289/be/strings.json",
+      "sha1": "c60574caff3a7a6dd8846a49bf80fc25c41f394c",
+      "size": 4057,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/bg/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/151e57832635be41781afc84c960a1e655b9e818/config/worldedit/.archive-unpack/5f7cd289/bg/strings.json",
+      "sha1": "91f2ca818a926a9324c3a7b4746e595f1a127121",
+      "size": 4177,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/bn/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/de98419072d8e4c08234ad4a31349275f1f8d6e3/config/worldedit/.archive-unpack/5f7cd289/bn/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/95ba08f06785bb1b23384c9d95088fd540fa7b82/config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/brb/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/94652620418378820b268c5bf040dcce9b19ee1a/config/worldedit/.archive-unpack/5f7cd289/brb/strings.json",
+      "sha1": "a8bcdc99b8f6495d7334069e6f2e92fafc0d69dd",
+      "size": 33977,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/bs/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/89e22f434d463966e27a1bf5392ab5014b681861/config/worldedit/.archive-unpack/5f7cd289/bs/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ca/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/2ee4cb96a5d3a1cc9c232873922071c7bf9667ce/config/worldedit/.archive-unpack/5f7cd289/ca/strings.json",
+      "sha1": "a3b7bdfec7a09c4e38f50f198624768e29b0b5d6",
+      "size": 554,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/687072bfc2c6061c311e9a221733d4bb32bb7d86/config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/cs/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/430a6437645c72f58d1c871d10da9a4afc62cb6e/config/worldedit/.archive-unpack/5f7cd289/cs/strings.json",
+      "sha1": "a475c0587a921c3ac9a00e62e0488ea6cea7e876",
+      "size": 34146,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/csb/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/80e7795665a168909b1cf028c3a3372f33d4790e/config/worldedit/.archive-unpack/5f7cd289/csb/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/cv/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/b1262c2a6496d60f94c3fe5c0a88e37472e0635b/config/worldedit/.archive-unpack/5f7cd289/cv/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/cy/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/42dc7a04aca62dd895dcb01acee86ada9b4043da/config/worldedit/.archive-unpack/5f7cd289/cy/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/da/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ec8deebfe9cea4cb27180177d6f61d7f2800ba81/config/worldedit/.archive-unpack/5f7cd289/da/strings.json",
+      "sha1": "429a3825a64ea29e8f9dc343af26c46e93951480",
+      "size": 33355,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/de/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/f416c8c3e3e22823463856ea68474baec4843749/config/worldedit/.archive-unpack/5f7cd289/de/strings.json",
+      "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3",
+      "size": 35314,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/09b8c51d5d4495ab2328cd2c7da5b2b6668b87ed/config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json",
+      "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3",
+      "size": 35314,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/2a63ec89adb7661be9f57bedeccb3793798f03ce/config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json",
+      "sha1": "ee2f88d02b4817a39fc9095a3258215e6b281899",
+      "size": 34951,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/80ba86b6759de7910931b872427ccc2850d862bc/config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/el/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6c22483d279a21c10dda79f63deaa54ba61059a3/config/worldedit/.archive-unpack/5f7cd289/el/strings.json",
+      "sha1": "2322030c3ec0723fe5a5990b11dcda6c9b7d3f3f",
+      "size": 399,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/c037ac930b5903d3090fdac108d851adbc4a4814/config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json",
+      "sha1": "f2a641e8fac0e925847b5588a02b6367cb460b21",
+      "size": 1120,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/52d52d8d0227b785844ac096e3dc56a4acdcf9a8/config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json",
+      "sha1": "d76eba76d98123e6d72a0240eab564145a273764",
+      "size": 712,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/53b1459ae437be7376bb6d38f24425ccb4def1d3/config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/44b623d83f873e6502ac86ff977637cb628613fd/config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1812d4c81e0fc58ef1e9d14722a22bc36849885c/config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json",
+      "sha1": "324bb32bb400cfa4815f577c188eba10692a87e0",
+      "size": 1992,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4a5815208c08a52c642886fd9a52a5b4020aa754/config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json",
+      "sha1": "ea11327f71f3917145cdec06d4b1acfb33ebf4e4",
+      "size": 17686,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/enp/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/5552e01f82f0a2ed03092445be0f4b0fb0a1c119/config/worldedit/.archive-unpack/5f7cd289/enp/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/enws/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3470697e480f56ca673b68ddcd63a38e9ec652c6/config/worldedit/.archive-unpack/5f7cd289/enws/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/eo/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/00358624273eb5bcb422fe47faf6a3ce9ec6ba7a/config/worldedit/.archive-unpack/5f7cd289/eo/strings.json",
+      "sha1": "7c7e9812a5fea5ff44dafbad060d0631ed22ebbe",
+      "size": 1007,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/062aa8f78edb9b366d122eff661810963778286c/config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json",
+      "sha1": "9adfeda71c19a19422e15d44fa205d7ea7ad8550",
+      "size": 37151,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ceae13e94cb39dc548454ed85fc19c4f752e9223/config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json",
+      "sha1": "933021f931ebfe68b67151c5e45a8bd8082209d8",
+      "size": 37278,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/7f210a9179fdc600b3c9b2f1474b67f546a0acb6/config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json",
+      "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22",
+      "size": 37375,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4bfa95a50c32d010520b7dba11bf9aa26bb69a8a/config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json",
+      "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22",
+      "size": 37375,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3a8bc078f39bbaa09c37b8cb52da5d04b07310e3/config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json",
+      "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22",
+      "size": 37375,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/a59ad907badb0884b934aeca5858800bb0f34593/config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json",
+      "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22",
+      "size": 37375,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/afb4785b9bd7073c8df380fd6d8f5283a97e5871/config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json",
+      "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22",
+      "size": 37375,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8e0e165ee817c585f97b79e4e3820f81f9b6c877/config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json",
+      "sha1": "0b45ee82ef95fae538656c8ea972eb4347f60daf",
+      "size": 37006,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/et/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3bfe64daa1f6bb855ed69d46797f6c705af7c3ad/config/worldedit/.archive-unpack/5f7cd289/et/strings.json",
+      "sha1": "564747457b4d5540e07571c8df4416cf871246df",
+      "size": 5563,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/eu/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/0d3412520b0a22be5901bd90b6465712700c5807/config/worldedit/.archive-unpack/5f7cd289/eu/strings.json",
+      "sha1": "9fcb595d0c010353f6443cf3da7da04467ca6ee1",
+      "size": 8642,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/fa/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/347a3501dca40e72cec5771b6f22601ab767d654/config/worldedit/.archive-unpack/5f7cd289/fa/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/fi/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9a47c1641a9e09d9d2906328616399f7d2839e48/config/worldedit/.archive-unpack/5f7cd289/fi/strings.json",
+      "sha1": "a66a02e0ab974728bb02470ceef4fa5a3ba91721",
+      "size": 1550,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/fil/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/c49891aef81f1be91f4102daed71a6ee4d239352/config/worldedit/.archive-unpack/5f7cd289/fil/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/fo/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/0df814563e59f110d6eac8063628cc15f8e1299e/config/worldedit/.archive-unpack/5f7cd289/fo/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/fr/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e115f61eaee72bc3dcf1e128e6d1459aff727658/config/worldedit/.archive-unpack/5f7cd289/fr/strings.json",
+      "sha1": "2e44e69ac3b3cb0d5b5b4a30891024a751deee6c",
+      "size": 36433,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1394510006f5492927e5049ca9520a753cde2d08/config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json",
+      "sha1": "631d4916bfcd9878eacec8f7c68f1a9c926bbd7b",
+      "size": 36482,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/a6aecb51f9f20b77af15fcd5fed88259e6f1e965/config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e9e7cee1d5babaed9e37c6e18ecf313351d3124c/config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1a15c406bc8913e35f7c111ca8fe35a917dca4ff/config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3de5f1a95614f73912639f953c911dacde6b80fa/config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/gd/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/410cc2b8b7844167fe20f596d80b621e621319be/config/worldedit/.archive-unpack/5f7cd289/gd/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/gl/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e968b81403d8ef52007fc91d351ed00f71ed3f68/config/worldedit/.archive-unpack/5f7cd289/gl/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/got/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/70977dd845455f80eecc874daa94ff20a0099e3b/config/worldedit/.archive-unpack/5f7cd289/got/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/gv/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4f24b74a7641e5f410d3079998f06437ecb5b661/config/worldedit/.archive-unpack/5f7cd289/gv/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/haw/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/58b7d8c779579af020138f1bf15018251e56dc55/config/worldedit/.archive-unpack/5f7cd289/haw/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/he/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/033e626a91f16a8256d8ba48711ab1408d481115/config/worldedit/.archive-unpack/5f7cd289/he/strings.json",
+      "sha1": "98bf778ea8e28e7271e77e170da69813ab532ac7",
+      "size": 1460,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/hi/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4b5492a44ba8f593d51039341832109d5e6458be/config/worldedit/.archive-unpack/5f7cd289/hi/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/hr/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/422378d4706f5385769fe448fea341c7fae09c4d/config/worldedit/.archive-unpack/5f7cd289/hr/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8735ccf6e88e4b6367bd2b1964df77a0ed204d91/config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/hu/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/0613569ba2263a9f8ffd1daa5f3596cb364a0723/config/worldedit/.archive-unpack/5f7cd289/hu/strings.json",
+      "sha1": "9e67f756bbf76d9bb5971f0ec5a8bada354fcda7",
+      "size": 11082,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/249b6eaaf0bf3c30f195aa802c4c9f9a4ba77e51/config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/id/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/c24c93e892bf3ba2171576ec98075fa6bed10b82/config/worldedit/.archive-unpack/5f7cd289/id/strings.json",
+      "sha1": "e5c91a0afa464ef7838af21887a236d6c614d73b",
+      "size": 32634,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ido/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/61066d38b0a711a42c43132addd8f7e4e8f5b8ec/config/worldedit/.archive-unpack/5f7cd289/ido/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ig/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4261daf6fcf266c5d97e7d99ff9cbe20475e2d60/config/worldedit/.archive-unpack/5f7cd289/ig/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/is/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/b316ee4f816fa3177ead0f6be2e4b761f90a9220/config/worldedit/.archive-unpack/5f7cd289/is/strings.json",
+      "sha1": "8c719af96631d6a6c2d70c8a487c67f617fc0ca9",
+      "size": 279,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/it/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/b63664b30a2f8b89f48dcff4b9c0878cb2739f32/config/worldedit/.archive-unpack/5f7cd289/it/strings.json",
+      "sha1": "de2aae20652fc8bb13371ff548397f90652fa44a",
+      "size": 34664,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ja/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/284248c464c3a7826ad5ad55ee8defcbd48d535a/config/worldedit/.archive-unpack/5f7cd289/ja/strings.json",
+      "sha1": "3767e1aaf923e3bc529eaf8a5ae4ee7e16a3c0bb",
+      "size": 31222,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/804f7b4c4cf209c01d382970b4189b494780c53a/config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ka/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/babd16e6cb39472456df6d9cb647135e28589cbb/config/worldedit/.archive-unpack/5f7cd289/ka/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/kab/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3cc032f90754328a808ec89e62c74b02f589e9ec/config/worldedit/.archive-unpack/5f7cd289/kab/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/kk/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e659b5e7a964b01120f2b14ae9e7010a05c23ebf/config/worldedit/.archive-unpack/5f7cd289/kk/strings.json",
+      "sha1": "c3eb555e70a93a7e832a7c7e4bcf534c96cc4cb6",
+      "size": 3419,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/kn/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/a20f69404246a9746db09e912069212df111f1dc/config/worldedit/.archive-unpack/5f7cd289/kn/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ko/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/2d3a9888d68912c3a35d8273eae0e32e57470c14/config/worldedit/.archive-unpack/5f7cd289/ko/strings.json",
+      "sha1": "695f13aff28997e5bde6ac80958d4b0ded45af5e",
+      "size": 32888,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3b52a68f5c0934243d5804ee3496a10d37e8c64f/config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json",
+      "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3",
+      "size": 35314,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/kw/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/97c3d7fa4e550340549d06db0ebc0624d067180e/config/worldedit/.archive-unpack/5f7cd289/kw/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/57222f7181bb26a93664f3ef8cb19371741f55af/config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/lb/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8a45cc343168a9c7beb25e3948a4c826c079552e/config/worldedit/.archive-unpack/5f7cd289/lb/strings.json",
+      "sha1": "5184eb63dcc1b5280d91902c7285d1a827643960",
+      "size": 288,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/li/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ee567daf0cc7e0d61c3768f8e5d8dfbd9a230a9e/config/worldedit/.archive-unpack/5f7cd289/li/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/lo/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/30be285817721b9a1a708f06e2b1af2109433475/config/worldedit/.archive-unpack/5f7cd289/lo/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/lol/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e386ea1132ccf5226e9df8b1c5bdb73fc24605be/config/worldedit/.archive-unpack/5f7cd289/lol/strings.json",
+      "sha1": "31e00de07c38a0b3582c0b1bc40e464fdd3357db",
+      "size": 22242,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/lt/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/47ab81fb5897592fdbb5202a5f0c34e7a64fa770/config/worldedit/.archive-unpack/5f7cd289/lt/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/lv/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/88337b5ab2a6424e79ced441045fa5ef899fefa6/config/worldedit/.archive-unpack/5f7cd289/lv/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/me/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9df1dd4417172a8add492cd573dc1c4cc7584c9e/config/worldedit/.archive-unpack/5f7cd289/me/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/mi/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ad6c2ce337d5233223a6ec9de8a449d7f1845fb7/config/worldedit/.archive-unpack/5f7cd289/mi/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/mk/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9db8a0fa41f73321e5a157f8271ff50901c8b547/config/worldedit/.archive-unpack/5f7cd289/mk/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/mn/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/927be080de52d2a0d5cb1163d21311c632ee3bf1/config/worldedit/.archive-unpack/5f7cd289/mn/strings.json",
+      "sha1": "5a1347a5588e481dd86ab92dc3ad84f316ff602a",
+      "size": 2954,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/moh/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/87c883b47359096db2cb9094ee77ba89520ca8e9/config/worldedit/.archive-unpack/5f7cd289/moh/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ms/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/0899ca94de9ce9d014835b275c752abb7c9deb8d/config/worldedit/.archive-unpack/5f7cd289/ms/strings.json",
+      "sha1": "944850a39e093c59a610ede202341a7c2e699ec7",
+      "size": 3636,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/mt/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3676fa63e05e896424ca7fcfbfd3edff33a38798/config/worldedit/.archive-unpack/5f7cd289/mt/strings.json",
+      "sha1": "235d227d4aeafb56c808c5257509d38c8c40e2c7",
+      "size": 1759,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/nds/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/be8aa61b813e90507c0f2e8e9dc8d3e7b15c076b/config/worldedit/.archive-unpack/5f7cd289/nds/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/7a3179142bb80d41e64297a22df771e716f16824/config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/nl/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/38c949ed9dfe7f47b98ab00a58a6d704de0e4282/config/worldedit/.archive-unpack/5f7cd289/nl/strings.json",
+      "sha1": "a8bcdc99b8f6495d7334069e6f2e92fafc0d69dd",
+      "size": 33977,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/16472c37f2d8dc605939d0d1028b398f0047a957/config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json",
+      "sha1": "d2e863cc39b3f6b4e9bf2a929a5e519e21551e25",
+      "size": 33967,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/7e67a6dcc31caab003d81e6280ebb714524de49f/config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json",
+      "sha1": "2d906c69f31610b823d1bfd9b183706c4b53df5a",
+      "size": 30808,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/no/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ce1a7084e30903b574c7fe776855f9e80a6aae22/config/worldedit/.archive-unpack/5f7cd289/no/strings.json",
+      "sha1": "2d906c69f31610b823d1bfd9b183706c4b53df5a",
+      "size": 30808,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/12f73e87c490645af2a07b81a0f692fcb40552e8/config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/oc/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/b814e7c5c01ca7dc7da0452fe3f9fbc91ad67093/config/worldedit/.archive-unpack/5f7cd289/oc/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/oj/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/df28ef435e29602f5fc5137be8cd2152582bed75/config/worldedit/.archive-unpack/5f7cd289/oj/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/7192cc5e20f16c17ba7112b03f83f4673426d062/config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/pl/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/646ce8741fa5235d26b871857aaab98afe5bb182/config/worldedit/.archive-unpack/5f7cd289/pl/strings.json",
+      "sha1": "96152d1ec798b904a136a91dd3fc7ad75381f762",
+      "size": 35297,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/00e331aff5f529137dcae78f6afe8bf4753f64b4/config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json",
+      "sha1": "1c2f7d815714b620f5af05bb20d5870b4ea3f7f4",
+      "size": 35104,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/29f64a52adca3a6db5dc0955f76f5f772d09effd/config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json",
+      "sha1": "088167f7b1d4fec597fe4bab1ce83da896f4115e",
+      "size": 5382,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/193179764509f1e2fabc086b42c9de97bd68e936/config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ro/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/b1afc720c38a309593d1ce626f1b13e3d3943c05/config/worldedit/.archive-unpack/5f7cd289/ro/strings.json",
+      "sha1": "dbf641475bc55db3a776a6ca0088cdf835bc0e35",
+      "size": 1737,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ru/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/55e480c330837408df8fb87e53aefaae80b7b3f8/config/worldedit/.archive-unpack/5f7cd289/ru/strings.json",
+      "sha1": "ddac1ef123dcb4304f2fa10dade354b1d93dcc01",
+      "size": 45491,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3c0d3531db45fcde497f5b3d276c55c0b76bc6d3/config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/sah/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/0b57bbcf749d012923c3c522d7a02fef5367d1bf/config/worldedit/.archive-unpack/5f7cd289/sah/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/se/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ec51cd45d4df3cca3dc83fa50b46264ec1461069/config/worldedit/.archive-unpack/5f7cd289/se/strings.json",
+      "sha1": "0e89ce1223b6b90c69c809a56441d3a9480eeccb",
+      "size": 826,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/sk/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6735ac407f3c89e40797282fa2ac7bc711db0f0e/config/worldedit/.archive-unpack/5f7cd289/sk/strings.json",
+      "sha1": "3460136113848963844612776902d6fa4e6343c8",
+      "size": 10085,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/sl/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/7ba588a9464bd40ae6f73451130164754e245859/config/worldedit/.archive-unpack/5f7cd289/sl/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/so/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/254b00afdd7e7ffe2cabad698952d45f31458fdc/config/worldedit/.archive-unpack/5f7cd289/so/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/sq/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/c22e7882b65b9131044687eeee7b68cf324cfe18/config/worldedit/.archive-unpack/5f7cd289/sq/strings.json",
+      "sha1": "08655754f4bf8e9ff1aed11cc550ed72f548ad4c",
+      "size": 6753,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/sr/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8ab3c8c553d268af48689533785abaae3185686f/config/worldedit/.archive-unpack/5f7cd289/sr/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d9b4fe1141038abd0e0cc5e649ed6a1f6503ded3/config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/939abd30f209b8d17a9b1a5648aef01deef8e48d/config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/b9d65be3abbac8a15d8d8132e00e5ac4c3377a17/config/worldedit/.archive-unpack/5f7cd289/strings.json",
+      "sha1": "436a00f5fdc42ab1a37f85391edf7195d48e8cad",
+      "size": 34876,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6a9ac29ba25f37242623142e0760cf89dbf06a19/config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json",
+      "sha1": "53f208f3b22ea139f5be00f0dafb7354e039e3e2",
+      "size": 28327,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/swg/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/86f3c993737e189a58084e6c978daab8f7d01fb8/config/worldedit/.archive-unpack/5f7cd289/swg/strings.json",
+      "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3",
+      "size": 35314,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/szl/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/044d4382e97a3617cb312ba762e4aae2e3740d21/config/worldedit/.archive-unpack/5f7cd289/szl/strings.json",
+      "sha1": "96152d1ec798b904a136a91dd3fc7ad75381f762",
+      "size": 35297,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ta/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e0fdcbbea186848645080e9204e88991187ac44b/config/worldedit/.archive-unpack/5f7cd289/ta/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/th/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/fd98d0ebc9d3e6c1c57b200026bb77ddd1e71950/config/worldedit/.archive-unpack/5f7cd289/th/strings.json",
+      "sha1": "179d4660d37941c7c38bdefee343159692d5f977",
+      "size": 8214,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/tl/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6498dda3b6781c44da863c13412d33f961578442/config/worldedit/.archive-unpack/5f7cd289/tl/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ddb010be8935ed8e17e0e63e8cbce4c4f4c53d2d/config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/tr/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/db0a95b4506604c1b0c164c685caa389bb0be231/config/worldedit/.archive-unpack/5f7cd289/tr/strings.json",
+      "sha1": "184f23e1e58edab8cb0d6ab6d2db950e1ef953e6",
+      "size": 30750,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4131e27cd531056c6e8ef59fced52ccd87d37635/config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json",
+      "sha1": "aa9c516576f2baad19d2d6bc1418479c1840f673",
+      "size": 1536,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/eb5501bb54e0057df25cbfccd97c1aa78c036df8/config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/uk/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9f808342a7ec2ee69d1adb67a3f6f544a2133989/config/worldedit/.archive-unpack/5f7cd289/uk/strings.json",
+      "sha1": "143663bc5219d1cc2e1f1353658abc67985dba1a",
+      "size": 44755,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/0ff03ecd1fc9d9f731ab70916981e7f3191ff452/config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/uz/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/73b566b909a7ef59337c84f9c07de526fc2a88fe/config/worldedit/.archive-unpack/5f7cd289/uz/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e7602824107d7445f9def04eeeeef1ee1ed70e35/config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/vec/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/91b32be6e322e728b29b3e12a0962a9f449d8a91/config/worldedit/.archive-unpack/5f7cd289/vec/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/vi/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/87f88afcff5bc6311d8b4e6c6e61b3af285d6498/config/worldedit/.archive-unpack/5f7cd289/vi/strings.json",
+      "sha1": "2069d274a20fd8b178e30f1c5c4489e2e15a9d83",
+      "size": 5975,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/yi/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/0028a86792339660605718953aa67090613962b6/config/worldedit/.archive-unpack/5f7cd289/yi/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/yo/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3cb2432ab24d7e561180adf23917cd4d94c4d5f8/config/worldedit/.archive-unpack/5f7cd289/yo/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8d7b946c971a6c44d79756905c8cbee816a1f650/config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json",
+      "sha1": "0c12e68d945bbc8c87aa3cc54cb4c4c5b324a99d",
+      "size": 32469,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/82fcc07d4ace88f3b92960fd4ccd4f6d42f8a786/config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3,
+      "enabled": true
+    },
+    {
+      "name": "strings.json",
+      "path": "config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/26de414ddd3612c91331050c009325e7278430e1/config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json",
+      "sha1": "c4d6ebe6ed9dd694b7eda9be68683faa02e8c322",
+      "size": 32615,
+      "enabled": true
+    },
+    {
+      "name": "spawn.schem",
+      "path": "config/worldedit/schematics/spawn.schem",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/abf6dee842345f3ff913dce037c16d6a354f9ed0/config/worldedit/schematics/spawn.schem",
+      "sha1": "e11b6d836633dfcdd376d8af42c7ffc6a06c3704",
+      "size": 128286,
+      "enabled": true
+    },
+    {
+      "name": "spawn1.schem",
+      "path": "config/worldedit/schematics/spawn1.schem",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/cb05208a57b959ae2f1a2fb8ace426f88bb9fc53/config/worldedit/schematics/spawn1.schem",
+      "sha1": "b591ffa82f18ac1537e034062b32a9eaa7f5133c",
+      "size": 128284,
+      "enabled": true
+    },
+    {
+      "name": "38b417f9-931b-4624-b771-c086bfd85404.json",
+      "path": "config/worldedit/sessions/38b417f9-931b-4624-b771-c086bfd85404.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/5fb57233cb3b252dc1674005f0bb16997dd49165/config/worldedit/sessions/38b417f9-931b-4624-b771-c086bfd85404.json",
+      "sha1": "edd9066bc9077042a4b1d07002b031747a97f6a2",
+      "size": 139,
+      "enabled": true
+    },
+    {
+      "name": "worldedit.properties",
+      "path": "config/worldedit/worldedit.properties",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/baabd22e681d0614c86f26d73d7f1f1fdacddf6e/config/worldedit/worldedit.properties",
+      "sha1": "979961fc45a223e6c36fcddc40dad039949d5943",
+      "size": 2547,
+      "enabled": true
+    },
+    {
+      "name": "client.cfg",
+      "path": "config/xaero/lib/client.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ee8b5e7ff57612168b27cf1572c713221ab2e36a/config/xaero/lib/client.cfg",
+      "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
+      "size": 26,
+      "enabled": true
+    },
+    {
+      "name": "common.cfg",
+      "path": "config/xaero/lib/common.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9f8320afc5d4be1848288cc5e1c8c9128393e055/config/xaero/lib/common.cfg",
+      "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
+      "size": 236,
+      "enabled": true
+    },
+    {
+      "name": "default.cfg",
+      "path": "config/xaero/lib/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4dcb6f844f951a0d19fa2911e8c48e796c2f595a/config/xaero/lib/profiles/default.cfg",
+      "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf",
+      "size": 121,
+      "enabled": true
+    },
+    {
+      "name": "default.cfg",
+      "path": "config/xaero/lib/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ccde42c99485fecf9c0866210c0ca4fa62a396da/config/xaero/lib/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "size": 75,
+      "enabled": true
+    },
+    {
+      "name": "client.cfg",
+      "path": "config/xaero/minimap/client.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4692965ad3d4221c552245dd84a6aa39382b5e53/config/xaero/minimap/client.cfg",
+      "sha1": "13af59808b65137743704608a462232e3ab5e375",
+      "size": 237,
+      "enabled": true
+    },
+    {
+      "name": "common.cfg",
+      "path": "config/xaero/minimap/common.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d1aec46ea08638221cb8918ca78c7ea7c23b0cf5/config/xaero/minimap/common.cfg",
+      "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
+      "size": 147,
+      "enabled": true
+    },
+    {
+      "name": "default_radar_categories_client.json",
+      "path": "config/xaero/minimap/default_radar_categories_client.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/142bc7b3689fcc309a940b959c89ca149a89407b/config/xaero/minimap/default_radar_categories_client.json",
+      "sha1": "1ecdae76584f3c99c3d4b7b6edfcd302714de29c",
+      "size": 5531,
+      "enabled": true
+    },
+    {
+      "name": "default_radar_categories_server.json",
+      "path": "config/xaero/minimap/default_radar_categories_server.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/74bcb09fbcbd70e5b3f76d53570b8a07482841a9/config/xaero/minimap/default_radar_categories_server.json",
+      "sha1": "c247867b018103357eb4015059fe209cc562de51",
+      "size": 4597,
+      "enabled": true
+    },
+    {
+      "name": "default.cfg",
+      "path": "config/xaero/minimap/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/9dbb59222753a190940e493df7c3d696a52b3d34/config/xaero/minimap/profiles/default.cfg",
+      "sha1": "055dfaa7758f10ce5c3b40daa3705734c94354ef",
+      "size": 3657,
+      "enabled": true
+    },
+    {
+      "name": "default.cfg.json",
+      "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e4ca3be63bb9674dff4e0056ee912b053ba23b71/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+      "sha1": "1ecdae76584f3c99c3d4b7b6edfcd302714de29c",
+      "size": 5531,
+      "enabled": true
+    },
+    {
+      "name": "default.cfg.txt",
+      "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/3c3b9311cba28138f3d1925a632474b8e0f568d5/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "sha1": "2b8d12369471b57bfa6426254b2170bc8e6b3b88",
+      "size": 684,
+      "enabled": true
+    },
+    {
+      "name": "default.cfg",
+      "path": "config/xaero/minimap/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4dc9aefef82d8057f2a08521e424aa9f75079b5d/config/xaero/minimap/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "size": 75,
+      "enabled": true
+    },
+    {
+      "name": "client.cfg",
+      "path": "config/xaero/world-map/client.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/5f8a270125aa7b2edfac95a8212ee64665db4d28/config/xaero/world-map/client.cfg",
+      "sha1": "bfefe0ff91f8c1a0f5c4b0f7504aeef9281fbf84",
+      "size": 468,
+      "enabled": true
+    },
+    {
+      "name": "common.cfg",
+      "path": "config/xaero/world-map/common.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/0747ff8937dc5ffbf245e8c77998f66142183a21/config/xaero/world-map/common.cfg",
+      "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
+      "size": 141,
+      "enabled": true
+    },
+    {
+      "name": "default.cfg",
+      "path": "config/xaero/world-map/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/f0d2ed9457a55de34a6d951baac7894b3cb374e0/config/xaero/world-map/profiles/default.cfg",
+      "sha1": "740dfcd18520c804aac5545fd97d26c5f940e3e9",
+      "size": 1379,
+      "enabled": true
+    },
+    {
+      "name": "default.cfg",
+      "path": "config/xaero/world-map/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/a215b33178e7f8bd52f53ab08c58fc63d9eee2d6/config/xaero/world-map/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "size": 75,
+      "enabled": true
+    },
+    {
+      "name": "xaerohud.txt",
+      "path": "config/xaerohud.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/677f91eee05a43e00de880e16cec31aa5b179134/config/xaerohud.txt",
+      "sha1": "8175f0316bc6ebc3d55d7f891f90d203ee6b4344",
+      "size": 124,
+      "enabled": true
+    },
+    {
+      "name": "xaeropatreon.txt",
+      "path": "config/xaeropatreon.txt",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/07e5ebace4c52f44b4f31fcbd8ac02430e2c9501/config/xaeropatreon.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0,
+      "enabled": true
+    },
+    {
+      "name": "ClientConfig.toml",
+      "path": "config/zombieawareness/ClientConfig.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/76d01c164aac544b396da290a09e87ff41a0dfa8/config/zombieawareness/ClientConfig.toml",
+      "sha1": "70096de123aeab1ac5c4fcae5c6524f1dc7b77b7",
+      "size": 107,
+      "enabled": true
+    },
+    {
+      "name": "Features.toml",
+      "path": "config/zombieawareness/Features.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/ec79bb55bb0e9b5f62084b07ccb632b6f57b48e1/config/zombieawareness/Features.toml",
+      "sha1": "88ca28aa2f5b5d6451c14d989bd8132bc32e905b",
+      "size": 1654,
+      "enabled": true
+    },
+    {
+      "name": "General.toml",
+      "path": "config/zombieawareness/General.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8746a6c2f3d82f80855ecf9815e94ea49ca57804/config/zombieawareness/General.toml",
+      "sha1": "46f19d7ca26924f470a8a7e58f06e2ec8d91a450",
+      "size": 3315,
+      "enabled": true
+    },
+    {
+      "name": "MobLists.toml",
+      "path": "config/zombieawareness/MobLists.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/70605d4c4159c209d016b2411b66febd9a8020fa/config/zombieawareness/MobLists.toml",
+      "sha1": "3a01b1a87609e36fa6a65a8e9dfa30b906aa8607",
+      "size": 1300,
+      "enabled": true
+    },
+    {
+      "name": "PlayerRulesAndLists.toml",
+      "path": "config/zombieawareness/PlayerRulesAndLists.toml",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/aa64f086e6518dc7ae5992360ea0ac924ff60b31/config/zombieawareness/PlayerRulesAndLists.toml",
+      "sha1": "8be33dc7fc7c29d35cde53fd6d9b475cd1c02793",
+      "size": 408,
+      "enabled": true
+    },
+    {
+      "name": "BetterSpiderRemastered[6].zip",
+      "path": "resourcepacks/BetterSpiderRemastered[6].zip",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/da9549b8d04edb5adc29f69d4f0eaa914c0c1f00/resourcepacks/BetterSpiderRemastered[6].zip",
+      "sha1": "0b08f099389c31abfaeba8f4556138ff47e1a043",
+      "size": 719927,
+      "enabled": true
+    },
+    {
+      "name": "FreshAnimations_v1.10.4.zip",
+      "path": "resourcepacks/FreshAnimations_v1.10.4.zip",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/207b70cd96002a2303b298fa64d72a5cb712dc07/resourcepacks/FreshAnimations_v1.10.4.zip",
+      "sha1": "73db740a6868e043c5e615c036fca2c912615b6e",
+      "size": 850941,
+      "enabled": true
+    },
+    {
+      "name": "TZP_1.20.1_2.7.zip",
+      "path": "resourcepacks/TZP_1.20.1_2.7.zip",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/2ffbc52547fe39f340bd8d237ad8595924659f2f/resourcepacks/TZP_1.20.1_2.7.zip",
+      "sha1": "2f402c52dfbb905f46638a84f2ec98d4870f66d8",
+      "size": 14177090,
       "enabled": true
     }
   ],
