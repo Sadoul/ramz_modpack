@@ -1,0 +1,20 @@
+#Seconds player must stay in exit zone before evacuation
+# Default: 5
+# Range: 1 ~ 60
+evacuationWaitSeconds = 5
+#Seconds of invulnerability during evacuation
+# Default: 10
+# Range: 1 ~ 60
+invulnerabilitySeconds = 10
+#Default chest loot cooldown per player (seconds)
+# Default: 300
+# Range: 0 ~ 86400
+defaultLootCooldownSeconds = 300
+#Radius to scan for barrier blocks when holding barrier item
+# Default: 64
+# Range: 8 ~ 128
+barrierRenderRadius = 64
+#Radius to search for barrier blocks when creating a zone
+# Default: 128
+# Range: 16 ~ 512
+zoneSearchRadius = 128
