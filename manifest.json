@@ -287,14 +287,6 @@
       "enabled": true
     },
     {
-      "name": "ramz-1.0.0.jar",
-      "path": "mods/ramz-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/672b779452a42dced1657009491bba98cbd5f10b/mods/ramz-1.0.0.jar",
-      "sha1": "707c55ea6d3acfde80279c18c4eb39e59ebaead9",
-      "size": 211023,
-      "enabled": true
-    },
-    {
       "name": "rubidium-extra-0.5.7e+mc1.21-build.132.jar",
       "path": "mods/rubidium-extra-0.5.7e+mc1.21-build.132.jar",
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/main/mods/rubidium-extra-0.5.7e+mc1.21-build.132.jar",
@@ -2796,6 +2788,14 @@
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/7202464064a7c33a8ec6c201cbe973874b02047f/mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
       "sha1": "7d5be91bdc108df3cce5c68a10af7dd31dfc9e34",
       "size": 25346355,
+      "enabled": true
+    },
+    {
+      "name": "ramz-1.0.0.jar",
+      "path": "mods/ramz-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d8ee16c29ebd073b4f9d2661b2bb855f6f823e87/mods/ramz-1.0.0.jar",
+      "sha1": "9972674d03ca8857fc51818c0e889f3ee91b7686",
+      "size": 2111594,
       "enabled": true
     }
   ],
