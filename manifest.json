@@ -2789,6 +2789,14 @@
       "sha1": "7d5be91bdc108df3cce5c68a10af7dd31dfc9e34",
       "size": 25346355,
       "enabled": true
+    },
+    {
+      "name": "superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
+      "path": "mods/superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d78970867137b77604e100e3e213308c22e31806/mods/superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
+      "sha1": "154e5b39b4544c0ab7875413e4ec30ab54007390",
+      "size": 25650908,
+      "enabled": true
     }
   ],
   "server_ip": null,
