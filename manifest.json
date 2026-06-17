@@ -359,14 +359,6 @@
       "enabled": true
     },
     {
-      "name": "superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
-      "path": "mods/superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
-      "url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/mods__superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
-      "sha1": "4efc370919a87480b95975f180f41d0288314ee3",
-      "size": 31688244,
-      "enabled": true
-    },
-    {
       "name": "suppressionmod-1.2.0.jar",
       "path": "mods/suppressionmod-1.2.0.jar",
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/09ae8baeff182eaba64991638f956f672627cea4/mods/suppressionmod-1.2.0.jar",
