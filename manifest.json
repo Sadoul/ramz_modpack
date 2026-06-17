@@ -223,14 +223,6 @@
       "enabled": true
     },
     {
-      "name": "halovecs-1.21.1-5.1.0.jar",
-      "path": "mods/halovecs-1.21.1-5.1.0.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/8a3ad874b14e4b6d62e95a7a7b6956622a53d7c9/mods/halovecs-1.21.1-5.1.0.jar",
-      "sha1": "4350edf18a47bb1b92c63f314470b15c21f078ca",
-      "size": 1325349,
-      "enabled": true
-    },
-    {
       "name": "hudcreator-2.6.1.jar",
       "path": "mods/hudcreator-2.6.1.jar",
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d6a609e8e99e33586942103fbaae2cb3c0e67142/mods/hudcreator-2.6.1.jar",
@@ -1236,14 +1228,6 @@
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6e331094105dca92d7b7185babb9fe3949919d10/config/sound_physics_remastered/soundphysics.properties",
       "sha1": "d28f5f62aebcbe96ce0ad333b8cb8298776d20f8",
       "size": 5104,
-      "enabled": true
-    },
-    {
-      "name": "superbwarfare-client.toml",
-      "path": "config/superbwarfare-client.toml",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1838e4ab3fd41c2702f823e6fb2f141d68195db4/config/superbwarfare-client.toml",
-      "sha1": "ec8d9309ae21357822af4232f0d85290058112c4",
-      "size": 3963,
       "enabled": true
     },
     {
