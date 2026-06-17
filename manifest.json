@@ -2783,14 +2783,6 @@
       "enabled": true
     },
     {
-      "name": "fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
-      "path": "mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/7202464064a7c33a8ec6c201cbe973874b02047f/mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
-      "sha1": "7d5be91bdc108df3cce5c68a10af7dd31dfc9e34",
-      "size": 25346355,
-      "enabled": true
-    },
-    {
       "name": "superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
       "path": "mods/superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d78970867137b77604e100e3e213308c22e31806/mods/superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
