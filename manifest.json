@@ -311,14 +311,6 @@
       "enabled": true
     },
     {
-      "name": "sbwdroneconfig-1.0.83 NeoForge 1.21.1.jar",
-      "path": "mods/sbwdroneconfig-1.0.83 NeoForge 1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e190139e968ac66e3d7df1e0b8de7df2de58b4cd/mods/sbwdroneconfig-1.0.83 NeoForge 1.21.1.jar",
-      "sha1": "04a72a63510e233579e8e3d2d336adb05b09be52",
-      "size": 3547781,
-      "enabled": true
-    },
-    {
       "name": "screenshot-to-clipboard-neoforge-1.0.10.jar",
       "path": "mods/screenshot-to-clipboard-neoforge-1.0.10.jar",
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/755a2e98df85f003e5de39d3170b56663bc07cf9/mods/screenshot-to-clipboard-neoforge-1.0.10.jar",
@@ -348,14 +340,6 @@
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/4ca6f7a11486029d98cfe27941a994532138a61c/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
       "sha1": "31cf754f9e5f62d1ca257f297e5dce394024696c",
       "size": 202454,
-      "enabled": true
-    },
-    {
-      "name": "superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
-      "path": "mods/superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
-      "url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/mods__superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
-      "sha1": "4efc370919a87480b95975f180f41d0288314ee3",
-      "size": 31688244,
       "enabled": true
     },
     {
@@ -1207,14 +1191,6 @@
       "enabled": true
     },
     {
-      "name": "sbwdroneconfig-common.toml",
-      "path": "config/sbwdroneconfig-common.toml",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/e220e0c5ee15997ff719de5ceeca3c6b098fd604/config/sbwdroneconfig-common.toml",
-      "sha1": "a3000c724dfe6e6f794a13746f46c51ac504e252",
-      "size": 5546,
-      "enabled": true
-    },
-    {
       "name": "smoothgui.json",
       "path": "config/smoothgui.json",
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/cc19a38e59b2ecbcf610441f5274f1818ec28396/config/smoothgui.json",
@@ -1300,30 +1276,6 @@
       "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/6e331094105dca92d7b7185babb9fe3949919d10/config/sound_physics_remastered/soundphysics.properties",
       "sha1": "d28f5f62aebcbe96ce0ad333b8cb8298776d20f8",
       "size": 5104,
-      "enabled": true
-    },
-    {
-      "name": "superbwarfare-client.toml",
-      "path": "config/superbwarfare-client.toml",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1838e4ab3fd41c2702f823e6fb2f141d68195db4/config/superbwarfare-client.toml",
-      "sha1": "ec8d9309ae21357822af4232f0d85290058112c4",
-      "size": 3963,
-      "enabled": true
-    },
-    {
-      "name": "superbwarfare-common.toml",
-      "path": "config/superbwarfare-common.toml",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/127ec1664170211445577701725665754e203202/config/superbwarfare-common.toml",
-      "sha1": "8f76b7ec19aca8ed3d9d9f7eb9591970a166513c",
-      "size": 464,
-      "enabled": true
-    },
-    {
-      "name": "superbwarfare-server.toml",
-      "path": "config/superbwarfare-server.toml",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/1e7f2afbf4c8b1fcec9b453364d48b0c995d0585/config/superbwarfare-server.toml",
-      "sha1": "3d4f9e8976d18f904444cae00eeefebe5666b5ff",
-      "size": 13676,
       "enabled": true
     },
     {
