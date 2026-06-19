@@ -2793,9 +2793,9 @@
     {
       "name": "ramz-1.0.0.jar",
       "path": "mods/ramz-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/d8ee16c29ebd073b4f9d2661b2bb855f6f823e87/mods/ramz-1.0.0.jar",
-      "sha1": "9972674d03ca8857fc51818c0e889f3ee91b7686",
-      "size": 2111594,
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/37f2891b12f8878047e0e7325c68b85139db9a7d/mods/ramz-1.0.0.jar",
+      "sha1": "2b2511c796f95caae5766390499925253e2e6f50",
+      "size": 2112443,
       "enabled": true
     }
   ],
