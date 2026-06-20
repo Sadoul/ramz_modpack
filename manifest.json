@@ -2,9 +2,9 @@
   "name": "ramz",
   "minecraft_version": "1.21.1",
   "loader": "neoforge",
-  "loader_version": "21.1.230",
-  "loader_installer_url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/neoforge-21.1.230-installer.jar",
-  "loader_prebuilt_url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/neoforge-21.1.230-prebuilt.zip",
+  "loader_version": "21.1.233",
+  "loader_installer_url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/neoforge-21.1.233-installer.jar",
+  "loader_prebuilt_url": "https://github.com/Sadoul/ramz_modpack/releases/download/storage/neoforge-21.1.233-prebuilt.zip",
   "mods": [
     {
       "name": "options.txt",
