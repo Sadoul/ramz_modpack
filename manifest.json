@@ -2805,6 +2805,22 @@
       "sha1": "6150d96dacac28d3a61869a851c982ed7f5e4ee3",
       "size": 9459873,
       "enabled": true
+    },
+    {
+      "name": "memorysettings-1.21-6.0.jar",
+      "path": "mods/memorysettings-1.21-6.0.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/022b9bc03bd1c59d94515902495f6a166da44dc6/mods/memorysettings-1.21-6.0.jar",
+      "sha1": "cf94148dab1e03ee5c737657efe0371f1132a145",
+      "size": 22329,
+      "enabled": true
+    },
+    {
+      "name": "gpumemleakfix-1.21-1.8.jar",
+      "path": "mods/gpumemleakfix-1.21-1.8.jar",
+      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/18df5121880d2141c54f774635c76c21efbaf711/mods/gpumemleakfix-1.21-1.8.jar",
+      "sha1": "1894d2f0dd0c275aea0f1a6265ebd5715569c208",
+      "size": 6574,
+      "enabled": true
     }
   ],
   "server_ip": null,
