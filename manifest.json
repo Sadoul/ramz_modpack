@@ -2821,14 +2821,6 @@
       "sha1": "1894d2f0dd0c275aea0f1a6265ebd5715569c208",
       "size": 6574,
       "enabled": true
-    },
-    {
-      "name": "cupboard-1.21.1-3.8.jar",
-      "path": "mods/cupboard-1.21.1-3.8.jar",
-      "url": "https://raw.githubusercontent.com/Sadoul/ramz_modpack/56c9dd0b15d34873ae6ebcccbcab18ebcf28fb2f/mods/cupboard-1.21.1-3.8.jar",
-      "sha1": "39df849e5a338dfe9ccb7632b1849c20357e597b",
-      "size": 28741,
-      "enabled": true
     }
   ],
   "server_ip": null,
